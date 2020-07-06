@@ -1,13 +1,13 @@
 //
-//  206_反转链表.hpp
-//  LeetCodeCpp
+//  ListNode.hpp
+//  LeetCode_Cpp
 //
 //  Created by zhangxiongfei on 2020/7/6.
 //  Copyright © 2020 飞熊. All rights reserved.
 //
 
-#ifndef _06______hpp
-#define _06______hpp
+#ifndef ListNode_hpp
+#define ListNode_hpp
 
 #include <stdio.h>
 
@@ -17,6 +17,4 @@ struct ListNode {
     ListNode(int x) : val(x), next(NULL) {}
 };
 
-ListNode* reverseList(ListNode* head);
-
-#endif /* _06______hpp */
+#endif /* ListNode_hpp */

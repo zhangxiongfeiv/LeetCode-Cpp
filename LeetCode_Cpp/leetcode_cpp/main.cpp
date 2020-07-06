@@ -1,17 +1,15 @@
 //
-//  main.m
-//  LeetCode_Cpp
+//  main.cpp
+//  leetcode_cpp
 //
 //  Created by zhangxiongfei on 2020/7/6.
 //  Copyright © 2020 飞熊. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#include <iostream>
 
 int main(int argc, const char * argv[]) {
-    @autoreleasepool {
-        // insert code here...
-        NSLog(@"Hello, World!");
-    }
+    // insert code here...
+    std::cout << "Hello, World!\n";
     return 0;
 }
