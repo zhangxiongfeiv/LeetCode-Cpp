@@ -10,6 +10,9 @@
 		A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */; };
 		A52C714D24B4476500A0F3F3 /* TreeNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714A24B4476500A0F3F3 /* TreeNode.cpp */; };
 		A52C715024B447B300A0F3F3 /* 面试题 10.01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */; };
+		A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */; };
+		A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E624B46D7D0066F455 /* 143_重排链表.cpp */; };
+		A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */; };
 		A5A3B18224B2D4010025BA95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18124B2D4010025BA95 /* main.cpp */; };
 		A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18924B2D4160025BA95 /* ListNode.cpp */; };
 		A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18A24B2D4160025BA95 /* 206_反转链表.cpp */; };
@@ -34,6 +37,9 @@
 		A52C714A24B4476500A0F3F3 /* TreeNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TreeNode.cpp; sourceTree = "<group>"; };
 		A52C714B24B4476500A0F3F3 /* TreeNode.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TreeNode.hpp; sourceTree = "<group>"; };
 		A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题 10.01.cpp"; sourceTree = "<group>"; };
+		A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "24_两两交换链表中的节点.cpp"; sourceTree = "<group>"; };
+		A54980E624B46D7D0066F455 /* 143_重排链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "143_重排链表.cpp"; sourceTree = "<group>"; };
+		A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19_删除链表的倒数第N个节点.cpp"; sourceTree = "<group>"; };
 		A5A3B17E24B2D4010025BA95 /* leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5A3B18124B2D4010025BA95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5A3B18924B2D4160025BA95 /* ListNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ListNode.cpp; sourceTree = "<group>"; };
@@ -107,6 +113,9 @@
 				A5A3B18B24B2D4160025BA95 /* 2_两数相加.cpp */,
 				A5A3B18C24B2D4160025BA95 /* 21_合并两个有序链表.cpp */,
 				A5A3B18A24B2D4160025BA95 /* 206_反转链表.cpp */,
+				A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */,
+				A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */,
+				A54980E624B46D7D0066F455 /* 143_重排链表.cpp */,
 			);
 			path = "链表";
 			sourceTree = "<group>";
@@ -173,9 +182,12 @@
 				A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */,
 				A5A3B18224B2D4010025BA95 /* main.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
+				A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */,
 				A52C715024B447B300A0F3F3 /* 面试题 10.01.cpp in Sources */,
 				A52C714D24B4476500A0F3F3 /* TreeNode.cpp in Sources */,
 				A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */,
+				A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */,
+				A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
