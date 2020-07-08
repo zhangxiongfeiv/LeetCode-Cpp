@@ -7,10 +7,16 @@
 //
 
 #include <iostream>
+#include "string"
 
+using namespace std;
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    string s1 = "Hello";
+    string s2 = "Hello";
+        
+    cout << "s1地址" << &s1 << endl << "s2地址" << &s2 << endl;
     
     return 0;
 }
+
