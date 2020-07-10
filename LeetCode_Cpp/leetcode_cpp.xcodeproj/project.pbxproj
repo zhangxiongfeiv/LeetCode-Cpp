@@ -26,6 +26,7 @@
 		A5D3D8AF24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */; };
 		A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */; };
 		A5F9454B24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F9454A24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp */; };
+		A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F9454C24B866CD00573A2F /* 旋转数组.cpp */; };
 		B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7B5338024B60471000FFA74 /* 面试题_02_07_链表相交.cpp */; };
 		B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7B5338324B60D3F000FFA74 /* 1_两数之和.cpp */; };
 		B7D01F7E24B759A3006BCD88 /* 55_跳跃游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */; };
@@ -67,6 +68,7 @@
 		A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "121_买卖股票的最佳时机.cpp"; sourceTree = "<group>"; };
 		A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "122_买卖股票的最佳时机II.cpp"; sourceTree = "<group>"; };
 		A5F9454A24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "309_最佳买卖股票时机含冷冻期.cpp"; sourceTree = "<group>"; };
+		A5F9454C24B866CD00573A2F /* 旋转数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "旋转数组.cpp"; sourceTree = "<group>"; };
 		B7B5338024B60471000FFA74 /* 面试题_02_07_链表相交.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_07_链表相交.cpp"; sourceTree = "<group>"; };
 		B7B5338324B60D3F000FFA74 /* 1_两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1_两数之和.cpp"; sourceTree = "<group>"; };
 		B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "55_跳跃游戏.cpp"; sourceTree = "<group>"; };
@@ -108,6 +110,7 @@
 				A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */,
 				A50FAE5B24B5857E00561A45 /* 删除排序数组中的重复项.cpp */,
 				B7D01F7F24B7661B006BCD88 /* 1480_一维数组的动态和.cpp */,
+				A5F9454C24B866CD00573A2F /* 旋转数组.cpp */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				B7D01F8024B7661B006BCD88 /* 1480_一维数组的动态和.cpp in Sources */,
 				A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
+				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
 				A503696D24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp in Sources */,
 				A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */,
 				B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */,
