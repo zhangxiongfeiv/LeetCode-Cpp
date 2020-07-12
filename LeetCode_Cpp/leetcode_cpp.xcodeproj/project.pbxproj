@@ -29,6 +29,7 @@
 		A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F9454C24B866CD00573A2F /* 旋转数组.cpp */; };
 		B72175AC24B9D6C3001CDC1A /* 存在重复元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B72175AB24B9D6C3001CDC1A /* 存在重复元素.cpp */; };
 		B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B72175AD24B9D864001CDC1A /* 只出现一次的数字.cpp */; };
+		B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */; };
 		B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7B5338024B60471000FFA74 /* 面试题_02_07_链表相交.cpp */; };
 		B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7B5338324B60D3F000FFA74 /* 1_两数之和.cpp */; };
 		B7D01F7E24B759A3006BCD88 /* 55_跳跃游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */; };
@@ -73,6 +74,7 @@
 		A5F9454C24B866CD00573A2F /* 旋转数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "旋转数组.cpp"; sourceTree = "<group>"; };
 		B72175AB24B9D6C3001CDC1A /* 存在重复元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "存在重复元素.cpp"; sourceTree = "<group>"; };
 		B72175AD24B9D864001CDC1A /* 只出现一次的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "只出现一次的数字.cpp"; sourceTree = "<group>"; };
+		B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "174_地下城游戏.cpp"; sourceTree = "<group>"; };
 		B7B5338024B60471000FFA74 /* 面试题_02_07_链表相交.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_07_链表相交.cpp"; sourceTree = "<group>"; };
 		B7B5338324B60D3F000FFA74 /* 1_两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1_两数之和.cpp"; sourceTree = "<group>"; };
 		B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "55_跳跃游戏.cpp"; sourceTree = "<group>"; };
@@ -177,6 +179,7 @@
 			children = (
 				A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */,
 				A5F9454A24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp */,
+				B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */,
 			);
 			path = "动态规划";
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
 				A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */,
