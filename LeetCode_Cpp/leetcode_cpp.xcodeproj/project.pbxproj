@@ -18,6 +18,7 @@
 		A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */; };
 		A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E624B46D7D0066F455 /* 143_重排链表.cpp */; };
 		A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */; };
+		A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A07824BD522400E5F736 /* 120_三角形最小路径和.cpp */; };
 		A5A3B18224B2D4010025BA95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18124B2D4010025BA95 /* main.cpp */; };
 		A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18924B2D4160025BA95 /* ListNode.cpp */; };
 		A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18A24B2D4160025BA95 /* 206_反转链表.cpp */; };
@@ -66,6 +67,7 @@
 		A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "24_两两交换链表中的节点.cpp"; sourceTree = "<group>"; };
 		A54980E624B46D7D0066F455 /* 143_重排链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "143_重排链表.cpp"; sourceTree = "<group>"; };
 		A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19_删除链表的倒数第N个节点.cpp"; sourceTree = "<group>"; };
+		A557A07824BD522400E5F736 /* 120_三角形最小路径和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "120_三角形最小路径和.cpp"; sourceTree = "<group>"; };
 		A5A3B17E24B2D4010025BA95 /* leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5A3B18124B2D4010025BA95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5A3B18924B2D4160025BA95 /* ListNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ListNode.cpp; sourceTree = "<group>"; };
@@ -157,7 +159,6 @@
 			isa = PBXGroup;
 			children = (
 				A5A3B18124B2D4010025BA95 /* main.cpp */,
-				A5D3D8B024B82ED4003AF7C8 /* 贪心算法 */,
 				A5D3D8AD24B819FE003AF7C8 /* 动态规划 */,
 				B7D01F7C24B7598B006BCD88 /* 贪心 */,
 				B7B5338224B60D34000FFA74 /* HashMap */,
@@ -195,16 +196,9 @@
 				A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */,
 				A5F9454A24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp */,
 				B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */,
+				A557A07824BD522400E5F736 /* 120_三角形最小路径和.cpp */,
 			);
 			path = "动态规划";
-			sourceTree = "<group>";
-		};
-		A5D3D8B024B82ED4003AF7C8 /* 贪心算法 */ = {
-			isa = PBXGroup;
-			children = (
-				A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */,
-			);
-			path = "贪心算法";
 			sourceTree = "<group>";
 		};
 		A5F0651724BC6E97007F0C5C /* DFS */ = {
@@ -227,6 +221,7 @@
 			isa = PBXGroup;
 			children = (
 				B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */,
+				A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */,
 			);
 			path = "贪心";
 			sourceTree = "<group>";
@@ -291,6 +286,7 @@
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
+				A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */,
 				A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */,
 				A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */,
 				A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */,
