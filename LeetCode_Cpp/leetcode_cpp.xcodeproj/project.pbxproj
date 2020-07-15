@@ -30,6 +30,7 @@
 		A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18B24B2D4160025BA95 /* 2_两数相加.cpp */; };
 		A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18C24B2D4160025BA95 /* 21_合并两个有序链表.cpp */; };
 		A5A9D30C24BEE01700033039 /* 剑指Offer61_扑克牌中的顺子.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A9D30A24BEE01700033039 /* 剑指Offer61_扑克牌中的顺子.cpp */; };
+		A5A9D30E24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */; };
 		A5BEA4C024BC21A400563FF9 /* 350_两个数组的交集II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5BEA4BF24BC21A400563FF9 /* 350_两个数组的交集II.cpp */; };
 		A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */; };
 		A5D3D8AF24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */; };
@@ -88,6 +89,7 @@
 		A5A3B18C24B2D4160025BA95 /* 21_合并两个有序链表.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "21_合并两个有序链表.cpp"; sourceTree = "<group>"; };
 		A5A3B18D24B2D4160025BA95 /* ListNode.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = ListNode.hpp; sourceTree = "<group>"; };
 		A5A9D30A24BEE01700033039 /* 剑指Offer61_扑克牌中的顺子.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指Offer61_扑克牌中的顺子.cpp"; sourceTree = "<group>"; };
+		A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指Offer33_二叉搜索树的后序遍历序列.cpp"; sourceTree = "<group>"; };
 		A5BEA4BF24BC21A400563FF9 /* 350_两个数组的交集II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "350_两个数组的交集II.cpp"; sourceTree = "<group>"; };
 		A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "349_两个数组的交集.cpp"; sourceTree = "<group>"; };
 		A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "121_买卖股票的最佳时机.cpp"; sourceTree = "<group>"; };
@@ -132,6 +134,7 @@
 				A52C714A24B4476500A0F3F3 /* TreeNode.cpp */,
 				A52C714B24B4476500A0F3F3 /* TreeNode.hpp */,
 				A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */,
+				A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -334,6 +337,7 @@
 				A53F4A7824BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp in Sources */,
 				A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */,
 				B72175AC24B9D6C3001CDC1A /* 存在重复元素.cpp in Sources */,
+				A5A9D30E24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp in Sources */,
 				B798D14524BB11D20044C1CA /* 1470_重新排列数组.cpp in Sources */,
 				A53F4A7A24BEC9E70053DB5A /* 79_单词搜索.cpp in Sources */,
 				A5BEA4C024BC21A400563FF9 /* 350_两个数组的交集II.cpp in Sources */,
