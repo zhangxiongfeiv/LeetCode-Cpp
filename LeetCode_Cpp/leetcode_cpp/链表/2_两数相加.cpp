@@ -55,6 +55,7 @@ ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
     if (carry > 0) {
         current -> next = new ListNode(1);
     }
+    delete current;
     
     return newHead -> next;
 }

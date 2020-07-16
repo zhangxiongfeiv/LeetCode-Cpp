@@ -38,6 +38,8 @@ public:
             slow -> next = slow -> next -> next;
         }
         
+        delete slow;
+        delete fast;
         return head;
     }
 };

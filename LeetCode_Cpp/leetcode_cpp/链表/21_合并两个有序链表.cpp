@@ -65,5 +65,6 @@ ListNode* mergeTwoLists(ListNode* l1, ListNode* l2) {
         }
         current = current -> next;
     }
+    delete current;
     return newNode -> next;
 }

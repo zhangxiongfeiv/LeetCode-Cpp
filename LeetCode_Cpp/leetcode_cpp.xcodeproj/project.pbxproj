@@ -11,6 +11,8 @@
 		A50FAE5A24B564F800561A45 /* 面试题_16_11_跳水板.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50FAE5824B564F800561A45 /* 面试题_16_11_跳水板.cpp */; };
 		A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50FAE5B24B5857E00561A45 /* 删除排序数组中的重复项.cpp */; };
 		A518199824C0226B00433CA9 /* 33_搜索旋转排序数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A518199724C0226B00433CA9 /* 33_搜索旋转排序数组.cpp */; };
+		A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A518199924C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp */; };
+		A518199C24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A518199B24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp */; };
 		A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */; };
 		A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */; };
 		A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */; };
@@ -70,6 +72,8 @@
 		A50FAE5824B564F800561A45 /* 面试题_16_11_跳水板.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_16_11_跳水板.cpp"; sourceTree = "<group>"; };
 		A50FAE5B24B5857E00561A45 /* 删除排序数组中的重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "删除排序数组中的重复项.cpp"; sourceTree = "<group>"; };
 		A518199724C0226B00433CA9 /* 33_搜索旋转排序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "33_搜索旋转排序数组.cpp"; sourceTree = "<group>"; };
+		A518199924C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "83_删除排序链表中的重复元素.cpp"; sourceTree = "<group>"; };
+		A518199B24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "82_删除排序链表中的重复元素II.cpp"; sourceTree = "<group>"; };
 		A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_04_分割链表.cpp"; sourceTree = "<group>"; };
 		A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "_328_奇偶链表.cpp"; sourceTree = "<group>"; };
 		A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "112_路径总和.cpp"; sourceTree = "<group>"; };
@@ -225,6 +229,8 @@
 				A5A3B18A24B2D4160025BA95 /* 206_反转链表.cpp */,
 				A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */,
 				A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */,
+				A518199924C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp */,
+				A518199B24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp */,
 				A54980E624B46D7D0066F455 /* 143_重排链表.cpp */,
 				A503696C24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp */,
 				A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */,
@@ -394,9 +400,11 @@
 				A518199824C0226B00433CA9 /* 33_搜索旋转排序数组.cpp in Sources */,
 				A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */,
 				A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */,
+				A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
 				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
 				A503696D24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp in Sources */,
+				A518199C24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp in Sources */,
 				A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */,
 				A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */,
 				B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */,
