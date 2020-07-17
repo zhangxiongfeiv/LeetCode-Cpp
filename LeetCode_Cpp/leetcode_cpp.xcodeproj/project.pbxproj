@@ -27,6 +27,7 @@
 		A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */; };
 		A557A08124BD906800E5F736 /* 513_找树左下角的值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08024BD906800E5F736 /* 513_找树左下角的值.cpp */; };
 		A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */; };
+		A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */; };
 		A5A3B18224B2D4010025BA95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18124B2D4010025BA95 /* main.cpp */; };
 		A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18924B2D4160025BA95 /* ListNode.cpp */; };
 		A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18A24B2D4160025BA95 /* 206_反转链表.cpp */; };
@@ -89,6 +90,7 @@
 		A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "872_叶子相似的树.cpp"; sourceTree = "<group>"; };
 		A557A08024BD906800E5F736 /* 513_找树左下角的值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "513_找树左下角的值.cpp"; sourceTree = "<group>"; };
 		A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1123_最深叶节点的最近公共祖先.cpp"; sourceTree = "<group>"; };
+		A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "35_搜索插入位置.cpp"; sourceTree = "<group>"; };
 		A5A3B17E24B2D4010025BA95 /* leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5A3B18124B2D4010025BA95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5A3B18924B2D4160025BA95 /* ListNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ListNode.cpp; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 			isa = PBXGroup;
 			children = (
 				A518199724C0226B00433CA9 /* 33_搜索旋转排序数组.cpp */,
+				A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */,
 			);
 			path = "二分查找";
 			sourceTree = "<group>";
@@ -363,6 +366,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */,
+				A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */,
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
