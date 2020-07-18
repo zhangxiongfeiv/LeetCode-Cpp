@@ -53,6 +53,10 @@
 		B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */; };
 		B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */; };
 		B798D14524BB11D20044C1CA /* 1470_重新排列数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */; };
+		B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B79DC35024C334C9008589E6 /* 429_N叉树的层序遍历.cpp */; };
+		B79DC35424C334E9008589E6 /* Node.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B79DC35224C334E9008589E6 /* Node.cpp */; };
+		B79DC35624C33853008589E6 /* 199_二叉树的右视图.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B79DC35524C33853008589E6 /* 199_二叉树的右视图.cpp */; };
+		B79DC35824C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B79DC35724C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp */; };
 		B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7B5338024B60471000FFA74 /* 面试题_02_07_链表相交.cpp */; };
 		B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7B5338324B60D3F000FFA74 /* 1_两数之和.cpp */; };
 		B7D01F7E24B759A3006BCD88 /* 55_跳跃游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */; };
@@ -121,6 +125,11 @@
 		B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "174_地下城游戏.cpp"; sourceTree = "<group>"; };
 		B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5460_好数对的数目.cpp"; sourceTree = "<group>"; };
 		B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1470_重新排列数组.cpp"; sourceTree = "<group>"; };
+		B79DC35024C334C9008589E6 /* 429_N叉树的层序遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "429_N叉树的层序遍历.cpp"; sourceTree = "<group>"; };
+		B79DC35224C334E9008589E6 /* Node.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Node.cpp; sourceTree = "<group>"; };
+		B79DC35324C334E9008589E6 /* Node.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Node.hpp; sourceTree = "<group>"; };
+		B79DC35524C33853008589E6 /* 199_二叉树的右视图.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "199_二叉树的右视图.cpp"; sourceTree = "<group>"; };
+		B79DC35724C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "129_求根到叶子节点数字之和.cpp"; sourceTree = "<group>"; };
 		B7B5338024B60471000FFA74 /* 面试题_02_07_链表相交.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_07_链表相交.cpp"; sourceTree = "<group>"; };
 		B7B5338324B60D3F000FFA74 /* 1_两数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1_两数之和.cpp"; sourceTree = "<group>"; };
 		B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "55_跳跃游戏.cpp"; sourceTree = "<group>"; };
@@ -160,9 +169,14 @@
 			children = (
 				A52C714A24B4476500A0F3F3 /* TreeNode.cpp */,
 				A52C714B24B4476500A0F3F3 /* TreeNode.hpp */,
+				B79DC35324C334E9008589E6 /* Node.hpp */,
+				B79DC35224C334E9008589E6 /* Node.cpp */,
 				A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */,
 				A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */,
 				B7551BB224C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp */,
+				B79DC35024C334C9008589E6 /* 429_N叉树的层序遍历.cpp */,
+				B79DC35524C33853008589E6 /* 199_二叉树的右视图.cpp */,
+				B79DC35724C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -387,10 +401,12 @@
 				A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */,
 				A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */,
 				A5A3B18224B2D4010025BA95 /* main.cpp in Sources */,
+				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
 				B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */,
 				B7551BB324C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp in Sources */,
 				B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */,
+				B79DC35624C33853008589E6 /* 199_二叉树的右视图.cpp in Sources */,
 				A53F4A7824BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp in Sources */,
 				A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */,
 				B72175AC24B9D6C3001CDC1A /* 存在重复元素.cpp in Sources */,
@@ -408,6 +424,7 @@
 				A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */,
 				A50FAE5A24B564F800561A45 /* 面试题_16_11_跳水板.cpp in Sources */,
 				A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */,
+				B79DC35424C334E9008589E6 /* Node.cpp in Sources */,
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
 				B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */,
 				A557A08124BD906800E5F736 /* 513_找树左下角的值.cpp in Sources */,
@@ -416,6 +433,7 @@
 				A518199824C0226B00433CA9 /* 33_搜索旋转排序数组.cpp in Sources */,
 				A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */,
 				A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */,
+				B79DC35824C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp in Sources */,
 				A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
 				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
