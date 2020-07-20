@@ -13,6 +13,7 @@
 		A518199824C0226B00433CA9 /* 33_搜索旋转排序数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A518199724C0226B00433CA9 /* 33_搜索旋转排序数组.cpp */; };
 		A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A518199924C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp */; };
 		A518199C24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A518199B24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp */; };
+		A519E7EF24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A519E7EE24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp */; };
 		A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */; };
 		A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */; };
 		A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */; };
@@ -75,6 +76,7 @@
 		A518199724C0226B00433CA9 /* 33_搜索旋转排序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "33_搜索旋转排序数组.cpp"; sourceTree = "<group>"; };
 		A518199924C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "83_删除排序链表中的重复元素.cpp"; sourceTree = "<group>"; };
 		A518199B24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "82_删除排序链表中的重复元素II.cpp"; sourceTree = "<group>"; };
+		A519E7EE24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "167_两数之和_II _输入有序数组.cpp"; sourceTree = "<group>"; };
 		A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_04_分割链表.cpp"; sourceTree = "<group>"; };
 		A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "_328_奇偶链表.cpp"; sourceTree = "<group>"; };
 		A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "112_路径总和.cpp"; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 				A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */,
 				B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */,
 				A5A9D30A24BEE01700033039 /* 剑指Offer61_扑克牌中的顺子.cpp */,
+				A519E7EE24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
@@ -369,6 +372,7 @@
 				A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */,
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
+				A519E7EF24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp in Sources */,
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
 				B754C8D224BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp in Sources */,
 				A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */,
