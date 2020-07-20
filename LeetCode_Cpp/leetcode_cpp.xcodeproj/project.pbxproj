@@ -28,6 +28,8 @@
 		A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */; };
 		A557A08124BD906800E5F736 /* 513_找树左下角的值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08024BD906800E5F736 /* 513_找树左下角的值.cpp */; };
 		A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */; };
+		A56A353324C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */; };
+		A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */; };
 		A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */; };
 		A5A3B18224B2D4010025BA95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18124B2D4010025BA95 /* main.cpp */; };
 		A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18924B2D4160025BA95 /* ListNode.cpp */; };
@@ -100,6 +102,8 @@
 		A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "872_叶子相似的树.cpp"; sourceTree = "<group>"; };
 		A557A08024BD906800E5F736 /* 513_找树左下角的值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "513_找树左下角的值.cpp"; sourceTree = "<group>"; };
 		A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1123_最深叶节点的最近公共祖先.cpp"; sourceTree = "<group>"; };
+		A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1047_删除字符串中的所有相邻重复项.cpp"; sourceTree = "<group>"; };
+		A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1019_链表中的下一个更大节点.cpp"; sourceTree = "<group>"; };
 		A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "35_搜索插入位置.cpp"; sourceTree = "<group>"; };
 		A5A3B17E24B2D4010025BA95 /* leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5A3B18124B2D4010025BA95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -214,6 +218,15 @@
 			path = BFS;
 			sourceTree = "<group>";
 		};
+		A56A353124C585C300CD7014 /* 栈 */ = {
+			isa = PBXGroup;
+			children = (
+				A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */,
+				A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */,
+			);
+			path = "栈";
+			sourceTree = "<group>";
+		};
 		A5A3B17524B2D4010025BA95 = {
 			isa = PBXGroup;
 			children = (
@@ -234,6 +247,7 @@
 			isa = PBXGroup;
 			children = (
 				A5A3B18124B2D4010025BA95 /* main.cpp */,
+				A56A353124C585C300CD7014 /* 栈 */,
 				A518199624C0225300433CA9 /* 二分查找 */,
 				B754C8D024BF59A200A6F30B /* 队列 */,
 				B7181F4324BC914400C809F3 /* 位运算 */,
@@ -395,6 +409,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */,
+				A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */,
 				A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */,
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
@@ -435,6 +450,7 @@
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
 				B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */,
 				A557A08124BD906800E5F736 /* 513_找树左下角的值.cpp in Sources */,
+				A56A353324C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp in Sources */,
 				A5F9454B24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp in Sources */,
 				B7D01F8024B7661B006BCD88 /* 1480_一维数组的动态和.cpp in Sources */,
 				A518199824C0226B00433CA9 /* 33_搜索旋转排序数组.cpp in Sources */,
