@@ -51,6 +51,7 @@
 		B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7181F4424BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp */; };
 		B72175AC24B9D6C3001CDC1A /* 存在重复元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B72175AB24B9D6C3001CDC1A /* 存在重复元素.cpp */; };
 		B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B72175AD24B9D864001CDC1A /* 只出现一次的数字.cpp */; };
+		B724C91D24C5DFC9002CBE12 /* 268_缺失数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B724C91C24C5DFC9002CBE12 /* 268_缺失数字.cpp */; };
 		B754C8D224BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B754C8D124BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp */; };
 		B7551BB324C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB224C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp */; };
 		B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */; };
@@ -129,6 +130,7 @@
 		B7181F4424BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指_Offer_15_二进制中1的个数.cpp"; sourceTree = "<group>"; };
 		B72175AB24B9D6C3001CDC1A /* 存在重复元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "存在重复元素.cpp"; sourceTree = "<group>"; };
 		B72175AD24B9D864001CDC1A /* 只出现一次的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "只出现一次的数字.cpp"; sourceTree = "<group>"; };
+		B724C91C24C5DFC9002CBE12 /* 268_缺失数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "268_缺失数字.cpp"; sourceTree = "<group>"; };
 		B754C8D124BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指 Offer59II队列的最大值.cpp"; sourceTree = "<group>"; };
 		B7551BB224C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1302_层数最深叶子节点的和.cpp"; sourceTree = "<group>"; };
 		B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1464_数组中两元素的最大乘积.cpp"; sourceTree = "<group>"; };
@@ -210,6 +212,7 @@
 				A519E7EE24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp */,
 				B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */,
 				B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */,
+				B724C91C24C5DFC9002CBE12 /* 268_缺失数字.cpp */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
@@ -420,6 +423,7 @@
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
 				A519E7EF24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp in Sources */,
+				B724C91D24C5DFC9002CBE12 /* 268_缺失数字.cpp in Sources */,
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
 				B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */,
 				B754C8D224BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp in Sources */,
