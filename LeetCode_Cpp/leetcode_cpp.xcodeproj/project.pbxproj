@@ -16,6 +16,8 @@
 		A519E7EF24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A519E7EE24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp */; };
 		A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */; };
 		A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */; };
+		A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */; };
+		A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */; };
 		A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */; };
 		A52C714D24B4476500A0F3F3 /* TreeNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714A24B4476500A0F3F3 /* TreeNode.cpp */; };
 		A52C715024B447B300A0F3F3 /* 面试题 10.01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */; };
@@ -89,6 +91,8 @@
 		A519E7EE24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "167_两数之和_II _输入有序数组.cpp"; sourceTree = "<group>"; };
 		A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_04_分割链表.cpp"; sourceTree = "<group>"; };
 		A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "_328_奇偶链表.cpp"; sourceTree = "<group>"; };
+		A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1021_删除最外层的括号.cpp"; sourceTree = "<group>"; };
+		A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "921_使括号有效的最少添加.cpp"; sourceTree = "<group>"; };
 		A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "112_路径总和.cpp"; sourceTree = "<group>"; };
 		A52C714A24B4476500A0F3F3 /* TreeNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TreeNode.cpp; sourceTree = "<group>"; };
 		A52C714B24B4476500A0F3F3 /* TreeNode.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TreeNode.hpp; sourceTree = "<group>"; };
@@ -223,6 +227,8 @@
 			children = (
 				A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */,
 				A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */,
+				A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */,
+				A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */,
 			);
 			path = "栈";
 			sourceTree = "<group>";
@@ -421,6 +427,7 @@
 				B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */,
 				A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */,
 				A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */,
+				A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */,
 				A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */,
 				A5A3B18224B2D4010025BA95 /* main.cpp in Sources */,
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
@@ -466,6 +473,7 @@
 				A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */,
 				A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */,
 				B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */,
+				A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
