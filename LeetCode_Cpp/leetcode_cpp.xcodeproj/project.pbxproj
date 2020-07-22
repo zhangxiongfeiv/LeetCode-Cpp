@@ -32,6 +32,8 @@
 		A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */; };
 		A56A353324C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */; };
 		A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */; };
+		A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */; };
+		A5732B4024C80CAA00D91A04 /* 901_股票价格跨度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5732B3F24C80CAA00D91A04 /* 901_股票价格跨度.cpp */; };
 		A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */; };
 		A5A3B18224B2D4010025BA95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18124B2D4010025BA95 /* main.cpp */; };
 		A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18924B2D4160025BA95 /* ListNode.cpp */; };
@@ -109,6 +111,8 @@
 		A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1123_最深叶节点的最近公共祖先.cpp"; sourceTree = "<group>"; };
 		A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1047_删除字符串中的所有相邻重复项.cpp"; sourceTree = "<group>"; };
 		A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1019_链表中的下一个更大节点.cpp"; sourceTree = "<group>"; };
+		A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "173_二叉搜索树迭代器.cpp"; sourceTree = "<group>"; };
+		A5732B3F24C80CAA00D91A04 /* 901_股票价格跨度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "901_股票价格跨度.cpp"; sourceTree = "<group>"; };
 		A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "35_搜索插入位置.cpp"; sourceTree = "<group>"; };
 		A5A3B17E24B2D4010025BA95 /* leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5A3B18124B2D4010025BA95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
@@ -191,6 +195,7 @@
 				B79DC35024C334C9008589E6 /* 429_N叉树的层序遍历.cpp */,
 				B79DC35524C33853008589E6 /* 199_二叉树的右视图.cpp */,
 				B79DC35724C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp */,
+				A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -232,6 +237,7 @@
 				A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */,
 				A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */,
 				A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */,
+				A5732B3F24C80CAA00D91A04 /* 901_股票价格跨度.cpp */,
 			);
 			path = "栈";
 			sourceTree = "<group>";
@@ -421,6 +427,7 @@
 				A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */,
 				A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */,
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
+				A5732B4024C80CAA00D91A04 /* 901_股票价格跨度.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
 				A519E7EF24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp in Sources */,
 				B724C91D24C5DFC9002CBE12 /* 268_缺失数字.cpp in Sources */,
@@ -434,6 +441,7 @@
 				A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */,
 				A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */,
 				A5A3B18224B2D4010025BA95 /* main.cpp in Sources */,
+				A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */,
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
 				B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */,
