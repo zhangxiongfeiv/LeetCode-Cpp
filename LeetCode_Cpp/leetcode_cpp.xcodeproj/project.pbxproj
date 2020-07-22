@@ -23,6 +23,7 @@
 		A52C715024B447B300A0F3F3 /* 面试题 10.01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */; };
 		A53F4A7824BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7724BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp */; };
 		A53F4A7A24BEC9E70053DB5A /* 79_单词搜索.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */; };
+		A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */; };
 		A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */; };
 		A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E624B46D7D0066F455 /* 143_重排链表.cpp */; };
 		A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */; };
@@ -102,6 +103,7 @@
 		A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题 10.01.cpp"; sourceTree = "<group>"; };
 		A53F4A7724BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "96_不同的二叉搜索树.cpp"; sourceTree = "<group>"; };
 		A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "79_单词搜索.cpp"; sourceTree = "<group>"; };
+		A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "134_加油站.cpp"; sourceTree = "<group>"; };
 		A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "24_两两交换链表中的节点.cpp"; sourceTree = "<group>"; };
 		A54980E624B46D7D0066F455 /* 143_重排链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "143_重排链表.cpp"; sourceTree = "<group>"; };
 		A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19_删除链表的倒数第N个节点.cpp"; sourceTree = "<group>"; };
@@ -362,6 +364,7 @@
 			children = (
 				B7D01F7D24B759A3006BCD88 /* 55_跳跃游戏.cpp */,
 				A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */,
+				A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */,
 			);
 			path = "贪心";
 			sourceTree = "<group>";
@@ -460,6 +463,7 @@
 				A5D3D8AF24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp in Sources */,
 				A52C714D24B4476500A0F3F3 /* TreeNode.cpp in Sources */,
 				B7D01F7E24B759A3006BCD88 /* 55_跳跃游戏.cpp in Sources */,
+				A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */,
 				B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */,
 				A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */,
 				A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */,
