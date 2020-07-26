@@ -69,6 +69,7 @@
 		B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */; };
 		B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */; };
 		B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B758C2B924BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp */; };
+		B75FB8EB24CDD28700BC7D27 /* 110_平衡二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */; };
 		B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */; };
 		B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */; };
 		B798D14524BB11D20044C1CA /* 1470_重新排列数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */; };
@@ -161,6 +162,8 @@
 		B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1464_数组中两元素的最大乘积.cpp"; sourceTree = "<group>"; };
 		B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1502_判断能否形成等差数列.cpp"; sourceTree = "<group>"; };
 		B758C2B924BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指 Offer59I_滑动窗口的最大值.cpp"; sourceTree = "<group>"; };
+		B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "110_平衡二叉树.cpp"; sourceTree = "<group>"; };
+		B75FB8EA24CDD28700BC7D27 /* 110_平衡二叉树.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "110_平衡二叉树.hpp"; sourceTree = "<group>"; };
 		B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "174_地下城游戏.cpp"; sourceTree = "<group>"; };
 		B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5460_好数对的数目.cpp"; sourceTree = "<group>"; };
 		B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1470_重新排列数组.cpp"; sourceTree = "<group>"; };
@@ -223,6 +226,8 @@
 				A50946A624CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp */,
 				A5D2B5C924CC130C006694E0 /* 687_最长同值路径.cpp */,
 				A5D2B5CA24CC130C006694E0 /* 687_最长同值路径.hpp */,
+				B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */,
+				B75FB8EA24CDD28700BC7D27 /* 110_平衡二叉树.hpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -488,6 +493,7 @@
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
 				B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */,
+				B75FB8EB24CDD28700BC7D27 /* 110_平衡二叉树.cpp in Sources */,
 				B7551BB324C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp in Sources */,
 				B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */,
 				B79DC35624C33853008589E6 /* 199_二叉树的右视图.cpp in Sources */,
