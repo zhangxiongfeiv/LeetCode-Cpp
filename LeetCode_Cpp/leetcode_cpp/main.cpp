@@ -7,12 +7,15 @@
 //
 
 #include <iostream>
+#include "string"
+#include "stack"
+#include "vector"
 
 using namespace std;
 int main(int argc, const char * argv[]) {
-    
-    cout << 1 << endl;
-    
+
     return 0;
 }
+
+
 
