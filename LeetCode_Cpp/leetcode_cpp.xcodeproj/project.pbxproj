@@ -34,6 +34,11 @@
 		A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */; };
 		A557A08124BD906800E5F736 /* 513_找树左下角的值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08024BD906800E5F736 /* 513_找树左下角的值.cpp */; };
 		A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */; };
+		A562A66B24CFBFA8008CA743 /* 104_二叉树的最大深度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */; };
+		A562A66D24CFC623008CA743 /* 155_最小栈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A66C24CFC623008CA743 /* 155_最小栈.cpp */; };
+		A562A66F24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */; };
+		A562A67124CFCA99008CA743 /* 232_用栈实现队列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A67024CFCA99008CA743 /* 232_用栈实现队列.cpp */; };
+		A562A67324CFCDE0008CA743 /* 225_用队列实现栈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A67224CFCDE0008CA743 /* 225_用队列实现栈.cpp */; };
 		A56A353324C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */; };
 		A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */; };
 		A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */; };
@@ -128,6 +133,11 @@
 		A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "872_叶子相似的树.cpp"; sourceTree = "<group>"; };
 		A557A08024BD906800E5F736 /* 513_找树左下角的值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "513_找树左下角的值.cpp"; sourceTree = "<group>"; };
 		A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1123_最深叶节点的最近公共祖先.cpp"; sourceTree = "<group>"; };
+		A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "104_二叉树的最大深度.cpp"; sourceTree = "<group>"; };
+		A562A66C24CFC623008CA743 /* 155_最小栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "155_最小栈.cpp"; sourceTree = "<group>"; };
+		A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "94_二叉树的中序遍历.cpp"; sourceTree = "<group>"; };
+		A562A67024CFCA99008CA743 /* 232_用栈实现队列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "232_用栈实现队列.cpp"; sourceTree = "<group>"; };
+		A562A67224CFCDE0008CA743 /* 225_用队列实现栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "225_用队列实现栈.cpp"; sourceTree = "<group>"; };
 		A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1047_删除字符串中的所有相邻重复项.cpp"; sourceTree = "<group>"; };
 		A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1019_链表中的下一个更大节点.cpp"; sourceTree = "<group>"; };
 		A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "173_二叉搜索树迭代器.cpp"; sourceTree = "<group>"; };
@@ -236,6 +246,8 @@
 				A5D2B5CA24CC130C006694E0 /* 687_最长同值路径.hpp */,
 				B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */,
 				B75FB8EA24CDD28700BC7D27 /* 110_平衡二叉树.hpp */,
+				A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */,
+				A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -281,6 +293,9 @@
 				A593AD0024CEF74B005BAA65 /* 20_有效的括号.cpp */,
 				A593AD0224CEFA01005BAA65 /* 739_每日温度.cpp */,
 				A593AD0424CEFDDF005BAA65 /* 150_逆波兰表达式求值.cpp */,
+				A562A66C24CFC623008CA743 /* 155_最小栈.cpp */,
+				A562A67024CFCA99008CA743 /* 232_用栈实现队列.cpp */,
+				A562A67224CFCDE0008CA743 /* 225_用队列实现栈.cpp */,
 			);
 			path = "栈";
 			sourceTree = "<group>";
@@ -487,6 +502,7 @@
 				A5732B4024C80CAA00D91A04 /* 901_股票价格跨度.cpp in Sources */,
 				A5A3B19124B2D4160025BA95 /* 21_合并两个有序链表.cpp in Sources */,
 				A519E7EF24C53918008CEE67 /* 167_两数之和_II _输入有序数组.cpp in Sources */,
+				A562A66F24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp in Sources */,
 				B724C91D24C5DFC9002CBE12 /* 268_缺失数字.cpp in Sources */,
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
 				B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */,
@@ -526,6 +542,7 @@
 				A593AD0524CEFDDF005BAA65 /* 150_逆波兰表达式求值.cpp in Sources */,
 				A5E3679724C9289D001AD032 /* 64_最小路径和.cpp in Sources */,
 				B7D01F7E24B759A3006BCD88 /* 55_跳跃游戏.cpp in Sources */,
+				A562A66B24CFBFA8008CA743 /* 104_二叉树的最大深度.cpp in Sources */,
 				A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */,
 				B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */,
 				A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */,
@@ -540,6 +557,7 @@
 				A5F9454B24B85A8000573A2F /* 309_最佳买卖股票时机含冷冻期.cpp in Sources */,
 				B7D01F8024B7661B006BCD88 /* 1480_一维数组的动态和.cpp in Sources */,
 				A518199824C0226B00433CA9 /* 33_搜索旋转排序数组.cpp in Sources */,
+				A562A66D24CFC623008CA743 /* 155_最小栈.cpp in Sources */,
 				A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */,
 				A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */,
 				A5F57D8124C98E690020C6BC /* 538_把二叉搜索树转换为累加树.cpp in Sources */,
@@ -548,6 +566,7 @@
 				B70F3EC324C48B7800046C9D /* 337_打家劫舍III.cpp in Sources */,
 				A5D2B5C824CBED13006694E0 /* 38_外观数列.cpp in Sources */,
 				A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */,
+				A562A67124CFCA99008CA743 /* 232_用栈实现队列.cpp in Sources */,
 				A522F83E24CE786400247299 /* 392_判断子序列.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
 				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
@@ -558,6 +577,7 @@
 				A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */,
 				B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */,
 				A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */,
+				A562A67324CFCDE0008CA743 /* 225_用队列实现栈.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
