@@ -42,6 +42,10 @@
 		A562A67524CFF6BB008CA743 /* 344_反转字符串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A67424CFF6BB008CA743 /* 344_反转字符串.cpp */; };
 		A562A67824CFF975008CA743 /* 118_杨辉三角.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A67624CFF975008CA743 /* 118_杨辉三角.cpp */; };
 		A562A67B24CFFB2A008CA743 /* 119_杨辉三角II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A67924CFFB2A008CA743 /* 119_杨辉三角II.cpp */; };
+		A568F64724D14E8C00A0A547 /* 136_只出现一次的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A568F64624D14E8C00A0A547 /* 136_只出现一次的数字.cpp */; };
+		A568F64924D151D700A0A547 /* 240_搜索二维矩阵II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A568F64824D151D700A0A547 /* 240_搜索二维矩阵II.cpp */; };
+		A568F64B24D152D700A0A547 /* 88_合并两个有序数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A568F64A24D152D700A0A547 /* 88_合并两个有序数组.cpp */; };
+		A568F64D24D1570A00A0A547 /* 125_验证回文串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A568F64C24D1570A00A0A547 /* 125_验证回文串.cpp */; };
 		A56A353324C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */; };
 		A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */; };
 		A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */; };
@@ -64,6 +68,8 @@
 		A5D2B5CD24CC13F1006694E0 /* 371_两整数之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D2B5CC24CC13F1006694E0 /* 371_两整数之和.cpp */; };
 		A5D3D8AF24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */; };
 		A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */; };
+		A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E15D9A24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp */; };
+		A5E15D9D24D1616A0092EEFB /* 139_单词拆分.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */; };
 		A5E3679724C9289D001AD032 /* 64_最小路径和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E3679624C9289D001AD032 /* 64_最小路径和.cpp */; };
 		A5F0510824CA806E009E0391 /* 1025_除数博弈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F0510724CA806E009E0391 /* 1025_除数博弈.cpp */; };
 		A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F0651524BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp */; };
@@ -144,6 +150,10 @@
 		A562A67424CFF6BB008CA743 /* 344_反转字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "344_反转字符串.cpp"; sourceTree = "<group>"; };
 		A562A67624CFF975008CA743 /* 118_杨辉三角.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "118_杨辉三角.cpp"; sourceTree = "<group>"; };
 		A562A67924CFFB2A008CA743 /* 119_杨辉三角II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "119_杨辉三角II.cpp"; sourceTree = "<group>"; };
+		A568F64624D14E8C00A0A547 /* 136_只出现一次的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "136_只出现一次的数字.cpp"; sourceTree = "<group>"; };
+		A568F64824D151D700A0A547 /* 240_搜索二维矩阵II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "240_搜索二维矩阵II.cpp"; sourceTree = "<group>"; };
+		A568F64A24D152D700A0A547 /* 88_合并两个有序数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "88_合并两个有序数组.cpp"; sourceTree = "<group>"; };
+		A568F64C24D1570A00A0A547 /* 125_验证回文串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "125_验证回文串.cpp"; sourceTree = "<group>"; };
 		A56A353224C585CF00CD7014 /* 1047_删除字符串中的所有相邻重复项.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1047_删除字符串中的所有相邻重复项.cpp"; sourceTree = "<group>"; };
 		A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1019_链表中的下一个更大节点.cpp"; sourceTree = "<group>"; };
 		A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "173_二叉搜索树迭代器.cpp"; sourceTree = "<group>"; };
@@ -169,6 +179,8 @@
 		A5D2B5CC24CC13F1006694E0 /* 371_两整数之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "371_两整数之和.cpp"; sourceTree = "<group>"; };
 		A5D3D8AE24B81A15003AF7C8 /* 121_买卖股票的最佳时机.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "121_买卖股票的最佳时机.cpp"; sourceTree = "<group>"; };
 		A5D3D8B124B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "122_买卖股票的最佳时机II.cpp"; sourceTree = "<group>"; };
+		A5E15D9A24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "680_验证回文字符串Ⅱ.cpp"; sourceTree = "<group>"; };
+		A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "139_单词拆分.cpp"; sourceTree = "<group>"; };
 		A5E3679624C9289D001AD032 /* 64_最小路径和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "64_最小路径和.cpp"; sourceTree = "<group>"; };
 		A5F0510724CA806E009E0391 /* 1025_除数博弈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1025_除数博弈.cpp"; sourceTree = "<group>"; };
 		A5F0651524BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指Offer13_机器人的运动范围.cpp"; sourceTree = "<group>"; };
@@ -277,6 +289,8 @@
 				B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */,
 				B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */,
 				B724C91C24C5DFC9002CBE12 /* 268_缺失数字.cpp */,
+				A568F64824D151D700A0A547 /* 240_搜索二维矩阵II.cpp */,
+				A568F64A24D152D700A0A547 /* 88_合并两个有序数组.cpp */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
@@ -370,6 +384,8 @@
 			isa = PBXGroup;
 			children = (
 				A5D2B5C724CBED13006694E0 /* 38_外观数列.cpp */,
+				A568F64C24D1570A00A0A547 /* 125_验证回文串.cpp */,
+				A5E15D9A24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp */,
 			);
 			path = "字符串";
 			sourceTree = "<group>";
@@ -388,6 +404,7 @@
 				A522F83C24CE786400247299 /* 392_判断子序列.cpp */,
 				A562A67624CFF975008CA743 /* 118_杨辉三角.cpp */,
 				A562A67924CFFB2A008CA743 /* 119_杨辉三角II.cpp */,
+				A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */,
 			);
 			path = "动态规划";
 			sourceTree = "<group>";
@@ -408,6 +425,7 @@
 			children = (
 				B7181F4424BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp */,
 				A5D2B5CC24CC13F1006694E0 /* 371_两整数之和.cpp */,
+				A568F64624D14E8C00A0A547 /* 136_只出现一次的数字.cpp */,
 			);
 			path = "位运算";
 			sourceTree = "<group>";
@@ -505,6 +523,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */,
+				A568F64B24D152D700A0A547 /* 88_合并两个有序数组.cpp in Sources */,
+				A568F64724D14E8C00A0A547 /* 136_只出现一次的数字.cpp in Sources */,
 				A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */,
 				A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */,
 				B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */,
@@ -518,6 +538,7 @@
 				B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */,
 				B754C8D224BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp in Sources */,
 				A50946A524CABC4C00B0EBB7 /* 437_路径总和III.cpp in Sources */,
+				A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */,
 				A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */,
 				B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */,
 				A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */,
@@ -536,6 +557,7 @@
 				B7551BB324C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp in Sources */,
 				B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */,
 				B79DC35624C33853008589E6 /* 199_二叉树的右视图.cpp in Sources */,
+				A5E15D9D24D1616A0092EEFB /* 139_单词拆分.cpp in Sources */,
 				A53F4A7824BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp in Sources */,
 				A5F0510824CA806E009E0391 /* 1025_除数博弈.cpp in Sources */,
 				A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */,
@@ -555,11 +577,13 @@
 				B7D01F7E24B759A3006BCD88 /* 55_跳跃游戏.cpp in Sources */,
 				A562A66B24CFBFA8008CA743 /* 104_二叉树的最大深度.cpp in Sources */,
 				A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */,
+				A568F64924D151D700A0A547 /* 240_搜索二维矩阵II.cpp in Sources */,
 				B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */,
 				A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */,
 				A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */,
 				A50FAE5A24B564F800561A45 /* 面试题_16_11_跳水板.cpp in Sources */,
 				A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */,
+				A568F64D24D1570A00A0A547 /* 125_验证回文串.cpp in Sources */,
 				B79DC35424C334E9008589E6 /* Node.cpp in Sources */,
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
 				B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */,
