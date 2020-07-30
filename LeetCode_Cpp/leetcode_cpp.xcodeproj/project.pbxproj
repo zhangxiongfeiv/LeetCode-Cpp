@@ -24,6 +24,14 @@
 		A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */; };
 		A52C714D24B4476500A0F3F3 /* TreeNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714A24B4476500A0F3F3 /* TreeNode.cpp */; };
 		A52C715024B447B300A0F3F3 /* 面试题 10.01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */; };
+		A539654724D299370047AC36 /* 98_验证二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539654624D299370047AC36 /* 98_验证二叉搜索树.cpp */; };
+		A539654924D29F460047AC36 /* 100_相同的树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539654824D29F460047AC36 /* 100_相同的树.cpp */; };
+		A539654B24D29FFC0047AC36 /* 101_对称二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539654A24D29FFC0047AC36 /* 101_对称二叉树.cpp */; };
+		A539654D24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539654C24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp */; };
+		A539654F24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539654E24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp */; };
+		A539655124D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539655024D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp */; };
+		A539655324D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539655224D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp */; };
+		A539655524D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A539655424D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp */; };
 		A53F4A7824BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7724BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp */; };
 		A53F4A7A24BEC9E70053DB5A /* 79_单词搜索.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */; };
 		A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */; };
@@ -132,6 +140,14 @@
 		A52C714A24B4476500A0F3F3 /* TreeNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = TreeNode.cpp; sourceTree = "<group>"; };
 		A52C714B24B4476500A0F3F3 /* TreeNode.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = TreeNode.hpp; sourceTree = "<group>"; };
 		A52C714F24B447B300A0F3F3 /* 面试题 10.01.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题 10.01.cpp"; sourceTree = "<group>"; };
+		A539654624D299370047AC36 /* 98_验证二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "98_验证二叉搜索树.cpp"; sourceTree = "<group>"; };
+		A539654824D29F460047AC36 /* 100_相同的树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "100_相同的树.cpp"; sourceTree = "<group>"; };
+		A539654A24D29FFC0047AC36 /* 101_对称二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "101_对称二叉树.cpp"; sourceTree = "<group>"; };
+		A539654C24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "102_二叉树的层序遍历.cpp"; sourceTree = "<group>"; };
+		A539654E24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "103_二叉树的锯齿形层次遍历.cpp"; sourceTree = "<group>"; };
+		A539655024D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "105_从前序与中序遍历序列构造二叉树.cpp"; sourceTree = "<group>"; };
+		A539655224D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "106_从中序与后序遍历序列构造二叉树.cpp"; sourceTree = "<group>"; };
+		A539655424D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "107_二叉树的层次遍历II.cpp"; sourceTree = "<group>"; };
 		A53F4A7724BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "96_不同的二叉搜索树.cpp"; sourceTree = "<group>"; };
 		A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "79_单词搜索.cpp"; sourceTree = "<group>"; };
 		A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "134_加油站.cpp"; sourceTree = "<group>"; };
@@ -267,6 +283,14 @@
 				B75FB8EA24CDD28700BC7D27 /* 110_平衡二叉树.hpp */,
 				A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */,
 				A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */,
+				A539654624D299370047AC36 /* 98_验证二叉搜索树.cpp */,
+				A539654824D29F460047AC36 /* 100_相同的树.cpp */,
+				A539654A24D29FFC0047AC36 /* 101_对称二叉树.cpp */,
+				A539654C24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp */,
+				A539654E24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp */,
+				A539655024D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp */,
+				A539655224D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp */,
+				A539655424D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -523,6 +547,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */,
+				A539654D24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp in Sources */,
 				A568F64B24D152D700A0A547 /* 88_合并两个有序数组.cpp in Sources */,
 				A568F64724D14E8C00A0A547 /* 136_只出现一次的数字.cpp in Sources */,
 				A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */,
@@ -537,11 +562,14 @@
 				A5A3B19024B2D4160025BA95 /* 2_两数相加.cpp in Sources */,
 				B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */,
 				B754C8D224BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp in Sources */,
+				A539655524D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp in Sources */,
 				A50946A524CABC4C00B0EBB7 /* 437_路径总和III.cpp in Sources */,
 				A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */,
 				A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */,
+				A539655324D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp in Sources */,
 				B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */,
 				A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */,
+				A539654724D299370047AC36 /* 98_验证二叉搜索树.cpp in Sources */,
 				A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */,
 				A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */,
 				A5F57D8324C99DFC0020C6BC /* 1305_两棵二叉搜索树中的所有元素.cpp in Sources */,
@@ -550,11 +578,13 @@
 				A5A3B18224B2D4010025BA95 /* main.cpp in Sources */,
 				A50946A724CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp in Sources */,
 				A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */,
+				A539655124D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp in Sources */,
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
 				B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */,
 				B75FB8EB24CDD28700BC7D27 /* 110_平衡二叉树.cpp in Sources */,
 				B7551BB324C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp in Sources */,
+				A539654924D29F460047AC36 /* 100_相同的树.cpp in Sources */,
 				B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */,
 				B79DC35624C33853008589E6 /* 199_二叉树的右视图.cpp in Sources */,
 				A5E15D9D24D1616A0092EEFB /* 139_单词拆分.cpp in Sources */,
@@ -584,6 +614,7 @@
 				A50FAE5A24B564F800561A45 /* 面试题_16_11_跳水板.cpp in Sources */,
 				A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */,
 				A568F64D24D1570A00A0A547 /* 125_验证回文串.cpp in Sources */,
+				A539654F24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp in Sources */,
 				B79DC35424C334E9008589E6 /* Node.cpp in Sources */,
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
 				B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */,
@@ -612,6 +643,7 @@
 				A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */,
 				A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */,
 				B7B5338124B60471000FFA74 /* 面试题_02_07_链表相交.cpp in Sources */,
+				A539654B24D29FFC0047AC36 /* 101_对称二叉树.cpp in Sources */,
 				A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */,
 				A562A67324CFCDE0008CA743 /* 225_用队列实现栈.cpp in Sources */,
 			);
