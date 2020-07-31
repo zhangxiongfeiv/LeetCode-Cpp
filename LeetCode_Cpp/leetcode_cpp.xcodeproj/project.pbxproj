@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A503696D24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A503696C24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp */; };
+		A508620D24D3D779001C54AC /* 面试题08_03_魔术索引.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A508620B24D3D779001C54AC /* 面试题08_03_魔术索引.cpp */; };
 		A50946A524CABC4C00B0EBB7 /* 437_路径总和III.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50946A424CABC4C00B0EBB7 /* 437_路径总和III.cpp */; };
 		A50946A724CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50946A624CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp */; };
 		A50FAE5A24B564F800561A45 /* 面试题_16_11_跳水板.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A50FAE5824B564F800561A45 /* 面试题_16_11_跳水板.cpp */; };
@@ -62,6 +63,9 @@
 		A593AD0124CEF74B005BAA65 /* 20_有效的括号.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A593AD0024CEF74B005BAA65 /* 20_有效的括号.cpp */; };
 		A593AD0324CEFA01005BAA65 /* 739_每日温度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A593AD0224CEFA01005BAA65 /* 739_每日温度.cpp */; };
 		A593AD0524CEFDDF005BAA65 /* 150_逆波兰表达式求值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A593AD0424CEFDDF005BAA65 /* 150_逆波兰表达式求值.cpp */; };
+		A5A260B124D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A260B024D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp */; };
+		A5A260B324D41A19003C6BC8 /* 110_平衡二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A260B224D41A19003C6BC8 /* 110_平衡二叉树.cpp */; };
+		A5A260B524D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A260B424D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp */; };
 		A5A3B18224B2D4010025BA95 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18124B2D4010025BA95 /* main.cpp */; };
 		A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18924B2D4160025BA95 /* ListNode.cpp */; };
 		A5A3B18F24B2D4160025BA95 /* 206_反转链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A3B18A24B2D4160025BA95 /* 206_反转链表.cpp */; };
@@ -95,7 +99,6 @@
 		B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */; };
 		B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */; };
 		B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B758C2B924BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp */; };
-		B75FB8EB24CDD28700BC7D27 /* 110_平衡二叉树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */; };
 		B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */; };
 		B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */; };
 		B798D14524BB11D20044C1CA /* 1470_重新排列数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */; };
@@ -123,6 +126,7 @@
 
 /* Begin PBXFileReference section */
 		A503696C24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_08_环路检测.cpp"; sourceTree = "<group>"; };
+		A508620B24D3D779001C54AC /* 面试题08_03_魔术索引.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题08_03_魔术索引.cpp"; sourceTree = "<group>"; };
 		A50946A424CABC4C00B0EBB7 /* 437_路径总和III.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "437_路径总和III.cpp"; sourceTree = "<group>"; };
 		A50946A624CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1290_二进制链表转整数.cpp"; sourceTree = "<group>"; };
 		A50FAE5824B564F800561A45 /* 面试题_16_11_跳水板.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_16_11_跳水板.cpp"; sourceTree = "<group>"; };
@@ -178,6 +182,9 @@
 		A593AD0024CEF74B005BAA65 /* 20_有效的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "20_有效的括号.cpp"; sourceTree = "<group>"; };
 		A593AD0224CEFA01005BAA65 /* 739_每日温度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "739_每日温度.cpp"; sourceTree = "<group>"; };
 		A593AD0424CEFDDF005BAA65 /* 150_逆波兰表达式求值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "150_逆波兰表达式求值.cpp"; sourceTree = "<group>"; };
+		A5A260B024D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "108_将有序数组转换为二叉搜索树.cpp"; sourceTree = "<group>"; };
+		A5A260B224D41A19003C6BC8 /* 110_平衡二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "110_平衡二叉树.cpp"; sourceTree = "<group>"; };
+		A5A260B424D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "111_二叉树的最小深度.cpp"; sourceTree = "<group>"; };
 		A5A3B17E24B2D4010025BA95 /* leetcode_cpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetcode_cpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		A5A3B18124B2D4010025BA95 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		A5A3B18924B2D4160025BA95 /* ListNode.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ListNode.cpp; sourceTree = "<group>"; };
@@ -214,8 +221,6 @@
 		B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1464_数组中两元素的最大乘积.cpp"; sourceTree = "<group>"; };
 		B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1502_判断能否形成等差数列.cpp"; sourceTree = "<group>"; };
 		B758C2B924BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指 Offer59I_滑动窗口的最大值.cpp"; sourceTree = "<group>"; };
-		B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "110_平衡二叉树.cpp"; sourceTree = "<group>"; };
-		B75FB8EA24CDD28700BC7D27 /* 110_平衡二叉树.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "110_平衡二叉树.hpp"; sourceTree = "<group>"; };
 		B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "174_地下城游戏.cpp"; sourceTree = "<group>"; };
 		B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5460_好数对的数目.cpp"; sourceTree = "<group>"; };
 		B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1470_重新排列数组.cpp"; sourceTree = "<group>"; };
@@ -255,6 +260,7 @@
 			children = (
 				A518199724C0226B00433CA9 /* 33_搜索旋转排序数组.cpp */,
 				A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */,
+				A508620B24D3D779001C54AC /* 面试题08_03_魔术索引.cpp */,
 			);
 			path = "二分查找";
 			sourceTree = "<group>";
@@ -279,8 +285,6 @@
 				A50946A624CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp */,
 				A5D2B5C924CC130C006694E0 /* 687_最长同值路径.cpp */,
 				A5D2B5CA24CC130C006694E0 /* 687_最长同值路径.hpp */,
-				B75FB8E924CDD28700BC7D27 /* 110_平衡二叉树.cpp */,
-				B75FB8EA24CDD28700BC7D27 /* 110_平衡二叉树.hpp */,
 				A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */,
 				A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */,
 				A539654624D299370047AC36 /* 98_验证二叉搜索树.cpp */,
@@ -291,6 +295,9 @@
 				A539655024D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp */,
 				A539655224D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp */,
 				A539655424D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp */,
+				A5A260B024D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp */,
+				A5A260B224D41A19003C6BC8 /* 110_平衡二叉树.cpp */,
+				A5A260B424D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -566,6 +573,7 @@
 				A50946A524CABC4C00B0EBB7 /* 437_路径总和III.cpp in Sources */,
 				A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */,
 				A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */,
+				A5A260B524D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp in Sources */,
 				A539655324D2B41B0047AC36 /* 106_从中序与后序遍历序列构造二叉树.cpp in Sources */,
 				B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */,
 				A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */,
@@ -582,8 +590,8 @@
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
 				B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */,
-				B75FB8EB24CDD28700BC7D27 /* 110_平衡二叉树.cpp in Sources */,
 				B7551BB324C1ECBA00410B03 /* 1302_层数最深叶子节点的和.cpp in Sources */,
+				A5A260B324D41A19003C6BC8 /* 110_平衡二叉树.cpp in Sources */,
 				A539654924D29F460047AC36 /* 100_相同的树.cpp in Sources */,
 				B7B5338424B60D3F000FFA74 /* 1_两数之和.cpp in Sources */,
 				B79DC35624C33853008589E6 /* 199_二叉树的右视图.cpp in Sources */,
@@ -614,6 +622,7 @@
 				A50FAE5A24B564F800561A45 /* 面试题_16_11_跳水板.cpp in Sources */,
 				A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */,
 				A568F64D24D1570A00A0A547 /* 125_验证回文串.cpp in Sources */,
+				A508620D24D3D779001C54AC /* 面试题08_03_魔术索引.cpp in Sources */,
 				A539654F24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp in Sources */,
 				B79DC35424C334E9008589E6 /* Node.cpp in Sources */,
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
@@ -633,6 +642,7 @@
 				B70F3EC324C48B7800046C9D /* 337_打家劫舍III.cpp in Sources */,
 				A5D2B5C824CBED13006694E0 /* 38_外观数列.cpp in Sources */,
 				A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */,
+				A5A260B124D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp in Sources */,
 				A562A67124CFCA99008CA743 /* 232_用栈实现队列.cpp in Sources */,
 				A522F83E24CE786400247299 /* 392_判断子序列.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,

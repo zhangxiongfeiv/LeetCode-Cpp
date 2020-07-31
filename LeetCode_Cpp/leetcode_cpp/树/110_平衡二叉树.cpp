@@ -2,7 +2,7 @@
 //  110_平衡二叉树.cpp
 //  leetcode_cpp
 //
-//  Created by 飞熊 on 2020/7/26.
+//  Created by zhangxiongfei on 2020/7/31.
 //  Copyright © 2020 飞熊. All rights reserved.
 //
 
@@ -42,9 +42,9 @@
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 */
 
-#include "110_平衡二叉树.hpp"
+#include <stdio.h>
 #include "TreeNode.hpp"
-#include "math.h"
+#include <math.h>
 
 using namespace std;
 class Solution {
@@ -63,19 +63,7 @@ public:
     }
     
     bool isBalanced(TreeNode* root) {
+        
         return height(root) != -1;
     }
 };
-
-
-
-
-
-
-
-
-
-
-
-
-
