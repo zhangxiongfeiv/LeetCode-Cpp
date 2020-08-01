@@ -75,6 +75,7 @@
 		A5A9D30E24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */; };
 		A5BEA4C024BC21A400563FF9 /* 350_两个数组的交集II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5BEA4BF24BC21A400563FF9 /* 350_两个数组的交集II.cpp */; };
 		A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */; };
+		A5D035DF24D558E200734DEB /* 113_路径总和II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D035DE24D558E200734DEB /* 113_路径总和II.cpp */; };
 		A5D2B5C824CBED13006694E0 /* 38_外观数列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D2B5C724CBED13006694E0 /* 38_外观数列.cpp */; };
 		A5D2B5CB24CC130C006694E0 /* 687_最长同值路径.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D2B5C924CC130C006694E0 /* 687_最长同值路径.cpp */; };
 		A5D2B5CD24CC13F1006694E0 /* 371_两整数之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D2B5CC24CC13F1006694E0 /* 371_两整数之和.cpp */; };
@@ -196,6 +197,7 @@
 		A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指Offer33_二叉搜索树的后序遍历序列.cpp"; sourceTree = "<group>"; };
 		A5BEA4BF24BC21A400563FF9 /* 350_两个数组的交集II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "350_两个数组的交集II.cpp"; sourceTree = "<group>"; };
 		A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "349_两个数组的交集.cpp"; sourceTree = "<group>"; };
+		A5D035DE24D558E200734DEB /* 113_路径总和II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "113_路径总和II.cpp"; sourceTree = "<group>"; };
 		A5D2B5C724CBED13006694E0 /* 38_外观数列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "38_外观数列.cpp"; sourceTree = "<group>"; };
 		A5D2B5C924CC130C006694E0 /* 687_最长同值路径.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "687_最长同值路径.cpp"; sourceTree = "<group>"; };
 		A5D2B5CA24CC130C006694E0 /* 687_最长同值路径.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "687_最长同值路径.hpp"; sourceTree = "<group>"; };
@@ -298,6 +300,7 @@
 				A5A260B024D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp */,
 				A5A260B224D41A19003C6BC8 /* 110_平衡二叉树.cpp */,
 				A5A260B424D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp */,
+				A5D035DE24D558E200734DEB /* 113_路径总和II.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -624,6 +627,7 @@
 				A568F64D24D1570A00A0A547 /* 125_验证回文串.cpp in Sources */,
 				A508620D24D3D779001C54AC /* 面试题08_03_魔术索引.cpp in Sources */,
 				A539654F24D2AD6E0047AC36 /* 103_二叉树的锯齿形层次遍历.cpp in Sources */,
+				A5D035DF24D558E200734DEB /* 113_路径总和II.cpp in Sources */,
 				B79DC35424C334E9008589E6 /* Node.cpp in Sources */,
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
 				B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */,
