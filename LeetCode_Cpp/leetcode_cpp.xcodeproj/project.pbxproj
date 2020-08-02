@@ -100,6 +100,7 @@
 		B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */; };
 		B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */; };
 		B758C2BA24BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B758C2B924BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp */; };
+		B769302C24D6FC9900D1F965 /* 114_二叉树展开为链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B769302B24D6FC9900D1F965 /* 114_二叉树展开为链表.cpp */; };
 		B798D14124BAFD960044C1CA /* 174_地下城游戏.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */; };
 		B798D14324BB09530044C1CA /* 5460_好数对的数目.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */; };
 		B798D14524BB11D20044C1CA /* 1470_重新排列数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */; };
@@ -223,6 +224,7 @@
 		B7551BB424C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1464_数组中两元素的最大乘积.cpp"; sourceTree = "<group>"; };
 		B7551BB624C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1502_判断能否形成等差数列.cpp"; sourceTree = "<group>"; };
 		B758C2B924BF6A4B0008A4C4 /* 剑指 Offer59I_滑动窗口的最大值.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指 Offer59I_滑动窗口的最大值.cpp"; sourceTree = "<group>"; };
+		B769302B24D6FC9900D1F965 /* 114_二叉树展开为链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "114_二叉树展开为链表.cpp"; sourceTree = "<group>"; };
 		B798D14024BAFD960044C1CA /* 174_地下城游戏.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "174_地下城游戏.cpp"; sourceTree = "<group>"; };
 		B798D14224BB09530044C1CA /* 5460_好数对的数目.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5460_好数对的数目.cpp"; sourceTree = "<group>"; };
 		B798D14424BB11D20044C1CA /* 1470_重新排列数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1470_重新排列数组.cpp"; sourceTree = "<group>"; };
@@ -301,6 +303,7 @@
 				A5A260B224D41A19003C6BC8 /* 110_平衡二叉树.cpp */,
 				A5A260B424D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp */,
 				A5D035DE24D558E200734DEB /* 113_路径总和II.cpp */,
+				B769302B24D6FC9900D1F965 /* 114_二叉树展开为链表.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -643,6 +646,7 @@
 				A5F57D8124C98E690020C6BC /* 538_把二叉搜索树转换为累加树.cpp in Sources */,
 				A593AD0324CEFA01005BAA65 /* 739_每日温度.cpp in Sources */,
 				B79DC35824C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp in Sources */,
+				B769302C24D6FC9900D1F965 /* 114_二叉树展开为链表.cpp in Sources */,
 				B70F3EC324C48B7800046C9D /* 337_打家劫舍III.cpp in Sources */,
 				A5D2B5C824CBED13006694E0 /* 38_外观数列.cpp in Sources */,
 				A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */,
