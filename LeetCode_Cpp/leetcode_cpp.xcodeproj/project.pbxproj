@@ -25,6 +25,7 @@
 		A5286D4024DBF54F00211888 /* 86_分隔链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D3E24DBF54F00211888 /* 86_分隔链表.cpp */; };
 		A5286D4224DBF7B700211888 /* 141_环形链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D4124DBF7B700211888 /* 141_环形链表.cpp */; };
 		A5286D4424DBF8AC00211888 /* 142_环形链表II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D4324DBF8AC00211888 /* 142_环形链表II.cpp */; };
+		A5286D4924DD36AD00211888 /* 3_无重复字符的最长子串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D4824DD36AD00211888 /* 3_无重复字符的最长子串.cpp */; };
 		A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */; };
 		A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */; };
 		A52A52CC24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A52CB24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp */; };
@@ -154,6 +155,7 @@
 		A5286D3E24DBF54F00211888 /* 86_分隔链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "86_分隔链表.cpp"; sourceTree = "<group>"; };
 		A5286D4124DBF7B700211888 /* 141_环形链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "141_环形链表.cpp"; sourceTree = "<group>"; };
 		A5286D4324DBF8AC00211888 /* 142_环形链表II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "142_环形链表II.cpp"; sourceTree = "<group>"; };
+		A5286D4824DD36AD00211888 /* 3_无重复字符的最长子串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3_无重复字符的最长子串.cpp"; sourceTree = "<group>"; };
 		A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1021_删除最外层的括号.cpp"; sourceTree = "<group>"; };
 		A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "921_使括号有效的最少添加.cpp"; sourceTree = "<group>"; };
 		A52A52CB24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "116_填充每个节点的下一个右侧节点指针.cpp"; sourceTree = "<group>"; };
@@ -287,6 +289,14 @@
 			path = "二分查找";
 			sourceTree = "<group>";
 		};
+		A5286D4A24DD42FC00211888 /* 滑动窗口 */ = {
+			isa = PBXGroup;
+			children = (
+				A5286D4824DD36AD00211888 /* 3_无重复字符的最长子串.cpp */,
+			);
+			path = "滑动窗口";
+			sourceTree = "<group>";
+		};
 		A52C714824B4476500A0F3F3 /* 树 */ = {
 			isa = PBXGroup;
 			children = (
@@ -404,6 +414,7 @@
 				A518199624C0225300433CA9 /* 二分查找 */,
 				B754C8D024BF59A200A6F30B /* 队列 */,
 				B7181F4324BC914400C809F3 /* 位运算 */,
+				A5286D4A24DD42FC00211888 /* 滑动窗口 */,
 				A5D3D8AD24B819FE003AF7C8 /* 动态规划 */,
 				B7D01F7C24B7598B006BCD88 /* 贪心 */,
 				B7B5338224B60D34000FFA74 /* HashMap */,
@@ -686,6 +697,7 @@
 				B70F3EC324C48B7800046C9D /* 337_打家劫舍III.cpp in Sources */,
 				A5D2B5C824CBED13006694E0 /* 38_外观数列.cpp in Sources */,
 				A518199A24C030D200433CA9 /* 83_删除排序链表中的重复元素.cpp in Sources */,
+				A5286D4924DD36AD00211888 /* 3_无重复字符的最长子串.cpp in Sources */,
 				A5A260B124D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp in Sources */,
 				A562A67124CFCA99008CA743 /* 232_用栈实现队列.cpp in Sources */,
 				A522F83E24CE786400247299 /* 392_判断子序列.cpp in Sources */,
