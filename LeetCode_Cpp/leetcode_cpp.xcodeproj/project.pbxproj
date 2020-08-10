@@ -53,6 +53,7 @@
 		A557A08424BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */; };
 		A56118AB24DE8C18008A742A /* 169_多数元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56118AA24DE8C18008A742A /* 169_多数元素.cpp */; };
 		A56118B124E1440B008A742A /* 152_乘积最大子数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56118B024E1440B008A742A /* 152_乘积最大子数组.cpp */; };
+		A56118B324E14D85008A742A /* 283_移动零.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56118B224E14D85008A742A /* 283_移动零.cpp */; };
 		A562A66B24CFBFA8008CA743 /* 104_二叉树的最大深度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */; };
 		A562A66D24CFC623008CA743 /* 155_最小栈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A66C24CFC623008CA743 /* 155_最小栈.cpp */; };
 		A562A66F24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */; };
@@ -186,6 +187,7 @@
 		A557A08224BDB7EB00E5F736 /* 1123_最深叶节点的最近公共祖先.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1123_最深叶节点的最近公共祖先.cpp"; sourceTree = "<group>"; };
 		A56118AA24DE8C18008A742A /* 169_多数元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "169_多数元素.cpp"; sourceTree = "<group>"; };
 		A56118B024E1440B008A742A /* 152_乘积最大子数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "152_乘积最大子数组.cpp"; sourceTree = "<group>"; };
+		A56118B224E14D85008A742A /* 283_移动零.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "283_移动零.cpp"; sourceTree = "<group>"; };
 		A562A66924CFBFA8008CA743 /* 104_二叉树的最大深度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "104_二叉树的最大深度.cpp"; sourceTree = "<group>"; };
 		A562A66C24CFC623008CA743 /* 155_最小栈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "155_最小栈.cpp"; sourceTree = "<group>"; };
 		A562A66E24CFC88A008CA743 /* 94_二叉树的中序遍历.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "94_二叉树的中序遍历.cpp"; sourceTree = "<group>"; };
@@ -364,6 +366,7 @@
 				A568F64824D151D700A0A547 /* 240_搜索二维矩阵II.cpp */,
 				A568F64A24D152D700A0A547 /* 88_合并两个有序数组.cpp */,
 				A56118AA24DE8C18008A742A /* 169_多数元素.cpp */,
+				A56118B224E14D85008A742A /* 283_移动零.cpp */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
@@ -710,6 +713,7 @@
 				A562A67124CFCA99008CA743 /* 232_用栈实现队列.cpp in Sources */,
 				A522F83E24CE786400247299 /* 392_判断子序列.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
+				A56118B324E14D85008A742A /* 283_移动零.cpp in Sources */,
 				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
 				A503696D24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp in Sources */,
 				A518199C24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp in Sources */,
