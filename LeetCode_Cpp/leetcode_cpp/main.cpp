@@ -17,26 +17,30 @@
 
 using namespace std;
 
-int lengthOfLongestSubstring(string s) {
-    if (s.length() <= 1) return (int)s.length();
-    unordered_set<char> set;
-    int ans = 0;
-    int left = 0;
-    int right = 0;
-    while (right < s.length()) {
-        if (!set.count(s[right])) {
-            ans = max(ans, right - left + 1);
-            set.insert(s[right ++]);
-        }else{
-            set.erase(s[left ++]);
-        }
+int maxProduct(vector<int>& nums) {
+    if (nums.size() == 0) return 0;
+
+    // 最终结果
+    int res = nums[0];
+    // 以 i 结尾的子数组的最大乘积
+    int maxres = nums[0];
+    // 以 i 结尾的子数组的最小乘机
+    int minres = nums[0];
+
+    for (int i = 1; i < nums.size(); i ++) {
+        int tmp = maxres;
+        maxres = max(maxres * nums[i], max(nums[i], minres * nums[i]));
+        minres = min(tmp * nums[i], min(nums[i], minres * nums[i]));
+
+        res = max(res, maxres);
     }
-    return ans;
+    return res;
 }
 
 int main(int argc, const char * argv[]) {
     
-    int res = lengthOfLongestSubstring("abcabcbb");
+    vector<int> vec = {2,3,-3,4,-2};
+    int res = maxProduct(vec);
     cout << res << endl;
     return 0;
 }
