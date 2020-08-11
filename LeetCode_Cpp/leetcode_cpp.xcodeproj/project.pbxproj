@@ -29,6 +29,7 @@
 		A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */; };
 		A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */; };
 		A52A2F0C24E24CC200BC90A0 /* 130_被围绕的区域.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A2F0B24E24CC200BC90A0 /* 130_被围绕的区域.cpp */; };
+		A52A2F0E24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A2F0D24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp */; };
 		A52A52CC24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A52CB24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp */; };
 		A52A52CE24D80333000BEF47 /* 117_填充每个节点的下一个右侧节点指针II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A52CD24D80333000BEF47 /* 117_填充每个节点的下一个右侧节点指针II.cpp */; };
 		A52C714C24B4476500A0F3F3 /* 112_路径总和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */; };
@@ -163,6 +164,7 @@
 		A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1021_删除最外层的括号.cpp"; sourceTree = "<group>"; };
 		A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "921_使括号有效的最少添加.cpp"; sourceTree = "<group>"; };
 		A52A2F0B24E24CC200BC90A0 /* 130_被围绕的区域.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "130_被围绕的区域.cpp"; sourceTree = "<group>"; };
+		A52A2F0D24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "215_数组中的第K个最大元素.cpp"; sourceTree = "<group>"; };
 		A52A52CB24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "116_填充每个节点的下一个右侧节点指针.cpp"; sourceTree = "<group>"; };
 		A52A52CD24D80333000BEF47 /* 117_填充每个节点的下一个右侧节点指针II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "117_填充每个节点的下一个右侧节点指针II.cpp"; sourceTree = "<group>"; };
 		A52C714924B4476500A0F3F3 /* 112_路径总和.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "112_路径总和.cpp"; sourceTree = "<group>"; };
@@ -369,6 +371,7 @@
 				A568F64A24D152D700A0A547 /* 88_合并两个有序数组.cpp */,
 				A56118AA24DE8C18008A742A /* 169_多数元素.cpp */,
 				A56118B224E14D85008A742A /* 283_移动零.cpp */,
+				A52A2F0D24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp */,
 			);
 			path = "数组";
 			sourceTree = "<group>";
@@ -668,6 +671,7 @@
 				B798D14524BB11D20044C1CA /* 1470_重新排列数组.cpp in Sources */,
 				A53F4A7A24BEC9E70053DB5A /* 79_单词搜索.cpp in Sources */,
 				A5BEA4C024BC21A400563FF9 /* 350_两个数组的交集II.cpp in Sources */,
+				A52A2F0E24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp in Sources */,
 				A5A9D30C24BEE01700033039 /* 剑指Offer61_扑克牌中的顺子.cpp in Sources */,
 				A5D2B5CB24CC130C006694E0 /* 687_最长同值路径.cpp in Sources */,
 				A5286D4024DBF54F00211888 /* 86_分隔链表.cpp in Sources */,
