@@ -75,6 +75,7 @@
 		A56A353624C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */; };
 		A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */; };
 		A5732B4024C80CAA00D91A04 /* 901_股票价格跨度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5732B3F24C80CAA00D91A04 /* 901_股票价格跨度.cpp */; };
+		A57C654C24E52A520070D250 /* 43_字符串相乘.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A57C654B24E52A520070D250 /* 43_字符串相乘.cpp */; };
 		A590DAEE24C1585C00D8D39F /* 35_搜索插入位置.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */; };
 		A593AD0124CEF74B005BAA65 /* 20_有效的括号.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A593AD0024CEF74B005BAA65 /* 20_有效的括号.cpp */; };
 		A593AD0324CEFA01005BAA65 /* 739_每日温度.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A593AD0224CEFA01005BAA65 /* 739_每日温度.cpp */; };
@@ -214,6 +215,7 @@
 		A56A353424C58E9B00CD7014 /* 1019_链表中的下一个更大节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1019_链表中的下一个更大节点.cpp"; sourceTree = "<group>"; };
 		A5732B3D24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "173_二叉搜索树迭代器.cpp"; sourceTree = "<group>"; };
 		A5732B3F24C80CAA00D91A04 /* 901_股票价格跨度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "901_股票价格跨度.cpp"; sourceTree = "<group>"; };
+		A57C654B24E52A520070D250 /* 43_字符串相乘.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "43_字符串相乘.cpp"; sourceTree = "<group>"; };
 		A590DAED24C1585C00D8D39F /* 35_搜索插入位置.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "35_搜索插入位置.cpp"; sourceTree = "<group>"; };
 		A593AD0024CEF74B005BAA65 /* 20_有效的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "20_有效的括号.cpp"; sourceTree = "<group>"; };
 		A593AD0224CEFA01005BAA65 /* 739_每日温度.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "739_每日温度.cpp"; sourceTree = "<group>"; };
@@ -482,6 +484,7 @@
 				A568F64C24D1570A00A0A547 /* 125_验证回文串.cpp */,
 				A5E15D9A24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp */,
 				A5D035E024D7AB5500734DEB /* 415_字符串相加.cpp */,
+				A57C654B24E52A520070D250 /* 43_字符串相乘.cpp */,
 			);
 			path = "字符串";
 			sourceTree = "<group>";
@@ -643,6 +646,7 @@
 				B7551BB824C1FD4A00410B03 /* 1502_判断能否形成等差数列.cpp in Sources */,
 				B754C8D224BF59B400A6F30B /* 剑指 Offer59II队列的最大值.cpp in Sources */,
 				A539655524D2BB4D0047AC36 /* 107_二叉树的层次遍历II.cpp in Sources */,
+				A57C654C24E52A520070D250 /* 43_字符串相乘.cpp in Sources */,
 				A53CF93724E3C2CB009B2E04 /* 897_递增顺序查找树.cpp in Sources */,
 				A50946A524CABC4C00B0EBB7 /* 437_路径总和III.cpp in Sources */,
 				A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */,
