@@ -17,30 +17,19 @@
 
 using namespace std;
 
-int maxProduct(vector<int>& nums) {
-    if (nums.size() == 0) return 0;
-
-    // 最终结果
-    int res = nums[0];
-    // 以 i 结尾的子数组的最大乘积
-    int maxres = nums[0];
-    // 以 i 结尾的子数组的最小乘机
-    int minres = nums[0];
-
-    for (int i = 1; i < nums.size(); i ++) {
-        int tmp = maxres;
-        maxres = max(maxres * nums[i], max(nums[i], minres * nums[i]));
-        minres = min(tmp * nums[i], min(nums[i], minres * nums[i]));
-
-        res = max(res, maxres);
-    }
-    return res;
+int multiply(int A, int B) {
+    if(A == 0 || B == 0) return 0;
+    // 保证 B > A
+    // 减少递归次数
+    if (A > B) return multiply(B, A);
+    
+    if (A == 1) return B;
+    return B + multiply(A - 1, B);
 }
 
 int main(int argc, const char * argv[]) {
     
-    vector<int> vec = {2,3,-3,4,-2};
-    int res = maxProduct(vec);
+    int res = multiply(5, 10);
     cout << res << endl;
     return 0;
 }

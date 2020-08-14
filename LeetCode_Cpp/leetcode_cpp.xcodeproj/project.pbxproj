@@ -93,6 +93,9 @@
 		A5A9D30E24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */; };
 		A5BEA4C024BC21A400563FF9 /* 350_两个数组的交集II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5BEA4BF24BC21A400563FF9 /* 350_两个数组的交集II.cpp */; };
 		A5BEA4C224BC21BB00563FF9 /* 349_两个数组的交集.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */; };
+		A5CC265324E62A4100D03E98 /* 面试题08_05_递归乘法.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5CC265224E62A4100D03E98 /* 面试题08_05_递归乘法.cpp */; };
+		A5CC265624E62DDE00D03E98 /* 347_前 K 个高频元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5CC265524E62DDE00D03E98 /* 347_前 K 个高频元素.cpp */; };
+		A5CC265824E6399200D03E98 /* 面试题1704消失的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5CC265724E6399200D03E98 /* 面试题1704消失的数字.cpp */; };
 		A5D035DF24D558E200734DEB /* 113_路径总和II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D035DE24D558E200734DEB /* 113_路径总和II.cpp */; };
 		A5D035E124D7AB5500734DEB /* 415_字符串相加.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D035E024D7AB5500734DEB /* 415_字符串相加.cpp */; };
 		A5D2B5C824CBED13006694E0 /* 38_外观数列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5D2B5C724CBED13006694E0 /* 38_外观数列.cpp */; };
@@ -235,6 +238,9 @@
 		A5A9D30D24BF106400033039 /* 剑指Offer33_二叉搜索树的后序遍历序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指Offer33_二叉搜索树的后序遍历序列.cpp"; sourceTree = "<group>"; };
 		A5BEA4BF24BC21A400563FF9 /* 350_两个数组的交集II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "350_两个数组的交集II.cpp"; sourceTree = "<group>"; };
 		A5BEA4C124BC21BB00563FF9 /* 349_两个数组的交集.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "349_两个数组的交集.cpp"; sourceTree = "<group>"; };
+		A5CC265224E62A4100D03E98 /* 面试题08_05_递归乘法.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题08_05_递归乘法.cpp"; sourceTree = "<group>"; };
+		A5CC265524E62DDE00D03E98 /* 347_前 K 个高频元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "347_前 K 个高频元素.cpp"; sourceTree = "<group>"; };
+		A5CC265724E6399200D03E98 /* 面试题1704消失的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题1704消失的数字.cpp"; sourceTree = "<group>"; };
 		A5D035DE24D558E200734DEB /* 113_路径总和II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "113_路径总和II.cpp"; sourceTree = "<group>"; };
 		A5D035E024D7AB5500734DEB /* 415_字符串相加.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "415_字符串相加.cpp"; sourceTree = "<group>"; };
 		A5D2B5C724CBED13006694E0 /* 38_外观数列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "38_外观数列.cpp"; sourceTree = "<group>"; };
@@ -293,6 +299,7 @@
 			children = (
 				A50FAE5824B564F800561A45 /* 面试题_16_11_跳水板.cpp */,
 				A562A67424CFF6BB008CA743 /* 344_反转字符串.cpp */,
+				A5CC265224E62A4100D03E98 /* 面试题08_05_递归乘法.cpp */,
 			);
 			path = "递归";
 			sourceTree = "<group>";
@@ -432,6 +439,7 @@
 			isa = PBXGroup;
 			children = (
 				A5A3B18124B2D4010025BA95 /* main.cpp */,
+				A5CC265424E62DCC00D03E98 /* 堆 */,
 				A5D2B5C624CBECFB006694E0 /* 字符串 */,
 				A56A353124C585C300CD7014 /* 栈 */,
 				A518199624C0225300433CA9 /* 二分查找 */,
@@ -475,6 +483,14 @@
 				A5286D4324DBF8AC00211888 /* 142_环形链表II.cpp */,
 			);
 			path = "链表";
+			sourceTree = "<group>";
+		};
+		A5CC265424E62DCC00D03E98 /* 堆 */ = {
+			isa = PBXGroup;
+			children = (
+				A5CC265524E62DDE00D03E98 /* 347_前 K 个高频元素.cpp */,
+			);
+			path = "堆";
 			sourceTree = "<group>";
 		};
 		A5D2B5C624CBECFB006694E0 /* 字符串 */ = {
@@ -528,6 +544,7 @@
 				B7181F4424BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp */,
 				A5D2B5CC24CC13F1006694E0 /* 371_两整数之和.cpp */,
 				A568F64624D14E8C00A0A547 /* 136_只出现一次的数字.cpp */,
+				A5CC265724E6399200D03E98 /* 面试题1704消失的数字.cpp */,
 			);
 			path = "位运算";
 			sourceTree = "<group>";
@@ -627,6 +644,7 @@
 				A56118B124E1440B008A742A /* 152_乘积最大子数组.cpp in Sources */,
 				B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */,
 				A539654D24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp in Sources */,
+				A5CC265824E6399200D03E98 /* 面试题1704消失的数字.cpp in Sources */,
 				A52A2F0C24E24CC200BC90A0 /* 130_被围绕的区域.cpp in Sources */,
 				A568F64B24D152D700A0A547 /* 88_合并两个有序数组.cpp in Sources */,
 				A568F64724D14E8C00A0A547 /* 136_只出现一次的数字.cpp in Sources */,
@@ -649,6 +667,7 @@
 				A57C654C24E52A520070D250 /* 43_字符串相乘.cpp in Sources */,
 				A53CF93724E3C2CB009B2E04 /* 897_递增顺序查找树.cpp in Sources */,
 				A50946A524CABC4C00B0EBB7 /* 437_路径总和III.cpp in Sources */,
+				A5CC265624E62DDE00D03E98 /* 347_前 K 个高频元素.cpp in Sources */,
 				A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */,
 				A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */,
 				A5A260B524D41BA6003C6BC8 /* 111_二叉树的最小深度.cpp in Sources */,
@@ -667,6 +686,7 @@
 				A50946A724CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp in Sources */,
 				A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */,
 				A539655124D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp in Sources */,
+				A5CC265324E62A4100D03E98 /* 面试题08_05_递归乘法.cpp in Sources */,
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
 				A5A3B18E24B2D4160025BA95 /* ListNode.cpp in Sources */,
 				B7551BB524C1FAA700410B03 /* 1464_数组中两元素的最大乘积.cpp in Sources */,
