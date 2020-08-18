@@ -14,24 +14,20 @@
 #include "TreeNode.hpp"
 #include <math.h>
 #include "unordered_set"
+#include "ListNode.hpp"
+#include "vector"
 
 using namespace std;
 
-int multiply(int A, int B) {
-    if(A == 0 || B == 0) return 0;
-    // 保证 B > A
-    // 减少递归次数
-    if (A > B) return multiply(B, A);
-    
-    if (A == 1) return B;
-    return B + multiply(A - 1, B);
-}
-
 int main(int argc, const char * argv[]) {
     
-    int res = multiply(5, 10);
-    cout << res << endl;
-    return 0;
+    ListNode *node = new ListNode(-10);
+    node -> next = new ListNode(-3);
+    node -> next -> next = new ListNode(0);
+    node -> next -> next -> next = new ListNode(5);
+    node -> next -> next -> next -> next = new ListNode(9);
+    
+//    sortedListToBST(node);
 }
 
 
