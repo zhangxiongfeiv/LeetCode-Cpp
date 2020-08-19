@@ -53,6 +53,7 @@
 		A5469BE024EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BDF24EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp */; };
 		A5469BE224EB84B300898A0A /* 1295_统计位数为偶数的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BE124EB84B300898A0A /* 1295_统计位数为偶数的数字.cpp */; };
 		A5469BE424EB91B000898A0A /* 387_字符串中的第一个唯一字符.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BE324EB91B000898A0A /* 387_字符串中的第一个唯一字符.cpp */; };
+		A5469BE624ECD6F400898A0A /* 647_回文子串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BE524ECD6F400898A0A /* 647_回文子串.cpp */; };
 		A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */; };
 		A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E624B46D7D0066F455 /* 143_重排链表.cpp */; };
 		A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */; };
@@ -200,6 +201,7 @@
 		A5469BDF24EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1013_将数组分成和相等的三个部分.cpp"; sourceTree = "<group>"; };
 		A5469BE124EB84B300898A0A /* 1295_统计位数为偶数的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1295_统计位数为偶数的数字.cpp"; sourceTree = "<group>"; };
 		A5469BE324EB91B000898A0A /* 387_字符串中的第一个唯一字符.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "387_字符串中的第一个唯一字符.cpp"; sourceTree = "<group>"; };
+		A5469BE524ECD6F400898A0A /* 647_回文子串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647_回文子串.cpp"; sourceTree = "<group>"; };
 		A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "24_两两交换链表中的节点.cpp"; sourceTree = "<group>"; };
 		A54980E624B46D7D0066F455 /* 143_重排链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "143_重排链表.cpp"; sourceTree = "<group>"; };
 		A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19_删除链表的倒数第N个节点.cpp"; sourceTree = "<group>"; };
@@ -533,6 +535,7 @@
 				A562A67924CFFB2A008CA743 /* 119_杨辉三角II.cpp */,
 				A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */,
 				A56118B024E1440B008A742A /* 152_乘积最大子数组.cpp */,
+				A5469BE524ECD6F400898A0A /* 647_回文子串.cpp */,
 			);
 			path = "动态规划";
 			sourceTree = "<group>";
@@ -745,6 +748,7 @@
 				A5D035DF24D558E200734DEB /* 113_路径总和II.cpp in Sources */,
 				B79DC35424C334E9008589E6 /* Node.cpp in Sources */,
 				A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */,
+				A5469BE624ECD6F400898A0A /* 647_回文子串.cpp in Sources */,
 				B72175AE24B9D864001CDC1A /* 只出现一次的数字.cpp in Sources */,
 				A53CF93524E3BC40009B2E04 /* 1379_找出克隆二叉树中的相同节点.cpp in Sources */,
 				A557A08124BD906800E5F736 /* 513_找树左下角的值.cpp in Sources */,
