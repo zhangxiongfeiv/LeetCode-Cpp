@@ -111,6 +111,7 @@
 		A5E15D9B24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E15D9A24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp */; };
 		A5E15D9D24D1616A0092EEFB /* 139_单词拆分.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */; };
 		A5E3679724C9289D001AD032 /* 64_最小路径和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E3679624C9289D001AD032 /* 64_最小路径和.cpp */; };
+		A5E931A924EE18890040AF3F /* 404_左叶子之和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5E931A824EE18890040AF3F /* 404_左叶子之和.cpp */; };
 		A5F0510824CA806E009E0391 /* 1025_除数博弈.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F0510724CA806E009E0391 /* 1025_除数博弈.cpp */; };
 		A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F0651524BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp */; };
 		A5F57D8124C98E690020C6BC /* 538_把二叉搜索树转换为累加树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5F57D8024C98E690020C6BC /* 538_把二叉搜索树转换为累加树.cpp */; };
@@ -262,6 +263,7 @@
 		A5E15D9A24D15CA40092EEFB /* 680_验证回文字符串Ⅱ.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "680_验证回文字符串Ⅱ.cpp"; sourceTree = "<group>"; };
 		A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "139_单词拆分.cpp"; sourceTree = "<group>"; };
 		A5E3679624C9289D001AD032 /* 64_最小路径和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "64_最小路径和.cpp"; sourceTree = "<group>"; };
+		A5E931A824EE18890040AF3F /* 404_左叶子之和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "404_左叶子之和.cpp"; sourceTree = "<group>"; };
 		A5F0510724CA806E009E0391 /* 1025_除数博弈.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1025_除数博弈.cpp"; sourceTree = "<group>"; };
 		A5F0651524BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "剑指Offer13_机器人的运动范围.cpp"; sourceTree = "<group>"; };
 		A5F57D8024C98E690020C6BC /* 538_把二叉搜索树转换为累加树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "538_把二叉搜索树转换为累加树.cpp"; sourceTree = "<group>"; };
@@ -373,6 +375,7 @@
 				A53CF93424E3BC40009B2E04 /* 1379_找出克隆二叉树中的相同节点.cpp */,
 				A53CF93624E3C2CB009B2E04 /* 897_递增顺序查找树.cpp */,
 				A5469BDD24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp */,
+				A5E931A824EE18890040AF3F /* 404_左叶子之和.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -776,6 +779,7 @@
 				A5A260B124D416F0003C6BC8 /* 108_将有序数组转换为二叉搜索树.cpp in Sources */,
 				A562A67124CFCA99008CA743 /* 232_用栈实现队列.cpp in Sources */,
 				A522F83E24CE786400247299 /* 392_判断子序列.cpp in Sources */,
+				A5E931A924EE18890040AF3F /* 404_左叶子之和.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
 				A56118B324E14D85008A742A /* 283_移动零.cpp in Sources */,
 				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
