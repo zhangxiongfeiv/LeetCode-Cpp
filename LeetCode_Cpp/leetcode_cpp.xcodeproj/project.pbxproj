@@ -48,6 +48,7 @@
 		A53CF93724E3C2CB009B2E04 /* 897_递增顺序查找树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53CF93624E3C2CB009B2E04 /* 897_递增顺序查找树.cpp */; };
 		A53F4A7824BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7724BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp */; };
 		A53F4A7A24BEC9E70053DB5A /* 79_单词搜索.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */; };
+		A54161DE24F3604F00D74968 /* 459_重复的子字符串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54161DD24F3604F00D74968 /* 459_重复的子字符串.cpp */; };
 		A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */; };
 		A5469BDE24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BDD24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp */; };
 		A5469BE024EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BDF24EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp */; };
@@ -197,6 +198,7 @@
 		A53CF93624E3C2CB009B2E04 /* 897_递增顺序查找树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "897_递增顺序查找树.cpp"; sourceTree = "<group>"; };
 		A53F4A7724BEA9FF0053DB5A /* 96_不同的二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "96_不同的二叉搜索树.cpp"; sourceTree = "<group>"; };
 		A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "79_单词搜索.cpp"; sourceTree = "<group>"; };
+		A54161DD24F3604F00D74968 /* 459_重复的子字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "459_重复的子字符串.cpp"; sourceTree = "<group>"; };
 		A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "134_加油站.cpp"; sourceTree = "<group>"; };
 		A5469BDD24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "109_有序链表转换二叉搜索树.cpp"; sourceTree = "<group>"; };
 		A5469BDF24EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1013_将数组分成和相等的三个部分.cpp"; sourceTree = "<group>"; };
@@ -518,6 +520,7 @@
 				A5D035E024D7AB5500734DEB /* 415_字符串相加.cpp */,
 				A57C654B24E52A520070D250 /* 43_字符串相乘.cpp */,
 				A5469BE324EB91B000898A0A /* 387_字符串中的第一个唯一字符.cpp */,
+				A54161DD24F3604F00D74968 /* 459_重复的子字符串.cpp */,
 			);
 			path = "字符串";
 			sourceTree = "<group>";
@@ -769,6 +772,7 @@
 				A510DCB424D8FC5900CE32BA /* 23_合并K个排序链表.cpp in Sources */,
 				A593AD0324CEFA01005BAA65 /* 739_每日温度.cpp in Sources */,
 				B79DC35824C33C90008589E6 /* 129_求根到叶子节点数字之和.cpp in Sources */,
+				A54161DE24F3604F00D74968 /* 459_重复的子字符串.cpp in Sources */,
 				A5469BE224EB84B300898A0A /* 1295_统计位数为偶数的数字.cpp in Sources */,
 				B769302C24D6FC9900D1F965 /* 114_二叉树展开为链表.cpp in Sources */,
 				B70F3EC324C48B7800046C9D /* 337_打家劫舍III.cpp in Sources */,
