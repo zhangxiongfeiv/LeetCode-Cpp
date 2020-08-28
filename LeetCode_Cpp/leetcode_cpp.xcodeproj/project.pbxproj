@@ -21,6 +21,7 @@
 		A522F83E24CE786400247299 /* 392_判断子序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A522F83C24CE786400247299 /* 392_判断子序列.cpp */; };
 		A524EC6924B6B81A00765683 /* 面试题_02_04_分割链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */; };
 		A524EC6B24B6BB7C00765683 /* _328_奇偶链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */; };
+		A527FE7124F74E4B00EC3699 /* 674_最长连续递增序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A527FE7024F74E4B00EC3699 /* 674_最长连续递增序列.cpp */; };
 		A5286D3D24DBF13600211888 /* 61_旋转链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D3C24DBF13600211888 /* 61_旋转链表.cpp */; };
 		A5286D4024DBF54F00211888 /* 86_分隔链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D3E24DBF54F00211888 /* 86_分隔链表.cpp */; };
 		A5286D4224DBF7B700211888 /* 141_环形链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D4124DBF7B700211888 /* 141_环形链表.cpp */; };
@@ -28,6 +29,7 @@
 		A5286D4924DD36AD00211888 /* 3_无重复字符的最长子串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5286D4824DD36AD00211888 /* 3_无重复字符的最长子串.cpp */; };
 		A52A157A24C6D9E900434F59 /* 1021_删除最外层的括号.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */; };
 		A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */; };
+		A52A20D924F89DD1001C5FA6 /* 657_机器人能否返回原点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A20D824F89DD1001C5FA6 /* 657_机器人能否返回原点.cpp */; };
 		A52A2F0C24E24CC200BC90A0 /* 130_被围绕的区域.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A2F0B24E24CC200BC90A0 /* 130_被围绕的区域.cpp */; };
 		A52A2F0E24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A2F0D24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp */; };
 		A52A52CC24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A52A52CB24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp */; };
@@ -170,6 +172,7 @@
 		A522F83C24CE786400247299 /* 392_判断子序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "392_判断子序列.cpp"; sourceTree = "<group>"; };
 		A524EC6824B6B81A00765683 /* 面试题_02_04_分割链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "面试题_02_04_分割链表.cpp"; sourceTree = "<group>"; };
 		A524EC6A24B6BB7C00765683 /* _328_奇偶链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "_328_奇偶链表.cpp"; sourceTree = "<group>"; };
+		A527FE7024F74E4B00EC3699 /* 674_最长连续递增序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "674_最长连续递增序列.cpp"; sourceTree = "<group>"; };
 		A5286D3C24DBF13600211888 /* 61_旋转链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "61_旋转链表.cpp"; sourceTree = "<group>"; };
 		A5286D3E24DBF54F00211888 /* 86_分隔链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "86_分隔链表.cpp"; sourceTree = "<group>"; };
 		A5286D4124DBF7B700211888 /* 141_环形链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "141_环形链表.cpp"; sourceTree = "<group>"; };
@@ -177,6 +180,7 @@
 		A5286D4824DD36AD00211888 /* 3_无重复字符的最长子串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3_无重复字符的最长子串.cpp"; sourceTree = "<group>"; };
 		A52A157924C6D9E900434F59 /* 1021_删除最外层的括号.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1021_删除最外层的括号.cpp"; sourceTree = "<group>"; };
 		A52A157B24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "921_使括号有效的最少添加.cpp"; sourceTree = "<group>"; };
+		A52A20D824F89DD1001C5FA6 /* 657_机器人能否返回原点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "657_机器人能否返回原点.cpp"; sourceTree = "<group>"; };
 		A52A2F0B24E24CC200BC90A0 /* 130_被围绕的区域.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "130_被围绕的区域.cpp"; sourceTree = "<group>"; };
 		A52A2F0D24E264A500BC90A0 /* 215_数组中的第K个最大元素.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "215_数组中的第K个最大元素.cpp"; sourceTree = "<group>"; };
 		A52A52CB24D7FE45000BEF47 /* 116_填充每个节点的下一个右侧节点指针.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "116_填充每个节点的下一个右侧节点指针.cpp"; sourceTree = "<group>"; };
@@ -521,6 +525,7 @@
 				A57C654B24E52A520070D250 /* 43_字符串相乘.cpp */,
 				A5469BE324EB91B000898A0A /* 387_字符串中的第一个唯一字符.cpp */,
 				A54161DD24F3604F00D74968 /* 459_重复的子字符串.cpp */,
+				A52A20D824F89DD1001C5FA6 /* 657_机器人能否返回原点.cpp */,
 			);
 			path = "字符串";
 			sourceTree = "<group>";
@@ -542,6 +547,7 @@
 				A5E15D9C24D1616A0092EEFB /* 139_单词拆分.cpp */,
 				A56118B024E1440B008A742A /* 152_乘积最大子数组.cpp */,
 				A5469BE524ECD6F400898A0A /* 647_回文子串.cpp */,
+				A527FE7024F74E4B00EC3699 /* 674_最长连续递增序列.cpp */,
 			);
 			path = "动态规划";
 			sourceTree = "<group>";
@@ -662,6 +668,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A527FE7124F74E4B00EC3699 /* 674_最长连续递增序列.cpp in Sources */,
 				A56118B124E1440B008A742A /* 152_乘积最大子数组.cpp in Sources */,
 				B7181F4524BC917900C809F3 /* 剑指_Offer_15_二进制中1的个数.cpp in Sources */,
 				A539654D24D2AAED0047AC36 /* 102_二叉树的层序遍历.cpp in Sources */,
@@ -697,6 +704,7 @@
 				A5F0651624BC63AE007F0C5C /* 剑指Offer13_机器人的运动范围.cpp in Sources */,
 				A539654724D299370047AC36 /* 98_验证二叉搜索树.cpp in Sources */,
 				A53CF93324E39975009B2E04 /* 133_克隆图.cpp in Sources */,
+				A52A20D924F89DD1001C5FA6 /* 657_机器人能否返回原点.cpp in Sources */,
 				A50FAE5C24B5857E00561A45 /* 删除排序数组中的重复项.cpp in Sources */,
 				A52A157C24C6E0F900434F59 /* 921_使括号有效的最少添加.cpp in Sources */,
 				A5F57D8324C99DFC0020C6BC /* 1305_两棵二叉搜索树中的所有元素.cpp in Sources */,
