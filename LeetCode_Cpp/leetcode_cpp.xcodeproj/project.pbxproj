@@ -52,6 +52,7 @@
 		A53F4A7A24BEC9E70053DB5A /* 79_单词搜索.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */; };
 		A54032812508875C00B80756 /* _80_删除排序数组中的重复项II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54032802508875C00B80756 /* _80_删除排序数组中的重复项II.cpp */; };
 		A54161DE24F3604F00D74968 /* 459_重复的子字符串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54161DD24F3604F00D74968 /* 459_重复的子字符串.cpp */; };
+		A543607025202B12004F634C /* 235_二叉搜索树的最近公共祖先.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A543606F25202B12004F634C /* 235_二叉搜索树的最近公共祖先.cpp */; };
 		A545FD3024C8547E009ADB2A /* 134_加油站.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */; };
 		A5469BDE24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BDD24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp */; };
 		A5469BE024EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BDF24EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp */; };
@@ -205,6 +206,7 @@
 		A53F4A7924BEC9E70053DB5A /* 79_单词搜索.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "79_单词搜索.cpp"; sourceTree = "<group>"; };
 		A54032802508875C00B80756 /* _80_删除排序数组中的重复项II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "_80_删除排序数组中的重复项II.cpp"; sourceTree = "<group>"; };
 		A54161DD24F3604F00D74968 /* 459_重复的子字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "459_重复的子字符串.cpp"; sourceTree = "<group>"; };
+		A543606F25202B12004F634C /* 235_二叉搜索树的最近公共祖先.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "235_二叉搜索树的最近公共祖先.cpp"; sourceTree = "<group>"; };
 		A545FD2E24C8547E009ADB2A /* 134_加油站.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "134_加油站.cpp"; sourceTree = "<group>"; };
 		A5469BDD24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "109_有序链表转换二叉搜索树.cpp"; sourceTree = "<group>"; };
 		A5469BDF24EB817200898A0A /* 1013_将数组分成和相等的三个部分.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1013_将数组分成和相等的三个部分.cpp"; sourceTree = "<group>"; };
@@ -384,6 +386,7 @@
 				A53CF93624E3C2CB009B2E04 /* 897_递增顺序查找树.cpp */,
 				A5469BDD24EB6EC600898A0A /* 109_有序链表转换二叉搜索树.cpp */,
 				A5E931A824EE18890040AF3F /* 404_左叶子之和.cpp */,
+				A543606F25202B12004F634C /* 235_二叉搜索树的最近公共祖先.cpp */,
 			);
 			path = "树";
 			sourceTree = "<group>";
@@ -717,6 +720,7 @@
 				A5A3B18224B2D4010025BA95 /* main.cpp in Sources */,
 				A50946A724CAC1E200B0EBB7 /* 1290_二进制链表转整数.cpp in Sources */,
 				A5732B3E24C8078F00D91A04 /* 173_二叉搜索树迭代器.cpp in Sources */,
+				A543607025202B12004F634C /* 235_二叉搜索树的最近公共祖先.cpp in Sources */,
 				A539655124D2AE6B0047AC36 /* 105_从前序与中序遍历序列构造二叉树.cpp in Sources */,
 				A5CC265324E62A4100D03E98 /* 面试题08_05_递归乘法.cpp in Sources */,
 				B79DC35124C334C9008589E6 /* 429_N叉树的层序遍历.cpp in Sources */,
