@@ -61,6 +61,7 @@
 		A5469BE624ECD6F400898A0A /* 647_回文子串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5469BE524ECD6F400898A0A /* 647_回文子串.cpp */; };
 		A54980E524B469910066F455 /* 24_两两交换链表中的节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */; };
 		A54980E724B46D7D0066F455 /* 143_重排链表.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54980E624B46D7D0066F455 /* 143_重排链表.cpp */; };
+		A54B96AB25CD13B10094F038 /* 17_18_最短子串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A54B96AA25CD13B10094F038 /* 17_18_最短子串.cpp */; };
 		A550F67E24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */; };
 		A557A07924BD522400E5F736 /* 120_三角形最小路径和.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A07824BD522400E5F736 /* 120_三角形最小路径和.cpp */; };
 		A557A07E24BD8B7D00E5F736 /* 872_叶子相似的树.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */; };
@@ -215,6 +216,7 @@
 		A5469BE524ECD6F400898A0A /* 647_回文子串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "647_回文子串.cpp"; sourceTree = "<group>"; };
 		A54980E424B469910066F455 /* 24_两两交换链表中的节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "24_两两交换链表中的节点.cpp"; sourceTree = "<group>"; };
 		A54980E624B46D7D0066F455 /* 143_重排链表.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "143_重排链表.cpp"; sourceTree = "<group>"; };
+		A54B96AA25CD13B10094F038 /* 17_18_最短子串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "17_18_最短子串.cpp"; sourceTree = "<group>"; };
 		A550F67D24B465D900556ABA /* 19_删除链表的倒数第N个节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19_删除链表的倒数第N个节点.cpp"; sourceTree = "<group>"; };
 		A557A07824BD522400E5F736 /* 120_三角形最小路径和.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "120_三角形最小路径和.cpp"; sourceTree = "<group>"; };
 		A557A07C24BD8B7D00E5F736 /* 872_叶子相似的树.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "872_叶子相似的树.cpp"; sourceTree = "<group>"; };
@@ -340,6 +342,7 @@
 			isa = PBXGroup;
 			children = (
 				A5286D4824DD36AD00211888 /* 3_无重复字符的最长子串.cpp */,
+				A54B96AA25CD13B10094F038 /* 17_18_最短子串.cpp */,
 			);
 			path = "滑动窗口";
 			sourceTree = "<group>";
@@ -802,6 +805,7 @@
 				A5E931A924EE18890040AF3F /* 404_左叶子之和.cpp in Sources */,
 				A5D3D8B224B82EDF003AF7C8 /* 122_买卖股票的最佳时机II.cpp in Sources */,
 				A56118B324E14D85008A742A /* 283_移动零.cpp in Sources */,
+				A54B96AB25CD13B10094F038 /* 17_18_最短子串.cpp in Sources */,
 				A5F9454D24B866CD00573A2F /* 旋转数组.cpp in Sources */,
 				A503696D24B5DAC900FC1049 /* 面试题_02_08_环路检测.cpp in Sources */,
 				A518199C24C0321D00433CA9 /* 82_删除排序链表中的重复元素II.cpp in Sources */,
